@@ -1,0 +1,3054 @@
+[
+  {
+    "sentence": "A common way to learn is by studying written step-by-step tutorials such as worked examples .",
+    "subject": "A common way to learn",
+    "predicate": "is",
+    "object": "by studying written step-by-step tutorials such as worked examples",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , tutorials for computer programming can be tedious to create since a static text-based format can not convey what happens as code executes .",
+    "subject": "tutorials for computer programming",
+    "predicate": "can be",
+    "object": "tedious to create",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "However , tutorials for computer programming can be tedious to create since a static text-based format can not convey what happens as code executes .",
+    "subject": "a static text-based format",
+    "predicate": "can not convey",
+    "object": "what happens as code executes",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "However , tutorials for computer programming can be tedious to create since a static text-based format can not convey what happens as code executes .",
+    "subject": "code",
+    "predicate": "executes",
+    "object": "",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "We created a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization .",
+    "subject": "We",
+    "predicate": "created",
+    "object": "a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "We created a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization .",
+    "subject": "a system called Codepourri",
+    "predicate": "enables",
+    "object": "people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "We created a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization .",
+    "subject": "people",
+    "predicate": "to easily create",
+    "object": "visual coding tutorials by annotating steps in an automatically-generated program visualization",
+    "confidence": 0.03
+  },
+  {
+    "sentence": "We created a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization .",
+    "subject": "people",
+    "predicate": "visual coding tutorials",
+    "object": "",
+    "confidence": 0.84
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "a system called Codepourri",
+    "predicate": "enables",
+    "object": "in an automatically-generated program",
+    "confidence": 0.76
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "people learners who are visiting an educational website ( www.pythontutor.com",
+    "predicate": "collectively create",
+    "object": "to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization a tutorial annotating execution",
+    "confidence": 0.22
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "people",
+    "predicate": "to easily create",
+    "object": "visual coding tutorials",
+    "confidence": 0.56
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "We",
+    "predicate": "developed",
+    "object": "a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ",
+    "confidence": 0.76
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "learners who are visiting an educational website ( www.pythontutor.com",
+    "predicate": "collectively create a tutorial",
+    "object": "",
+    "confidence": 0.03
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "a system called Codepourri",
+    "predicate": "enables",
+    "object": "in",
+    "confidence": 0.92
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "We",
+    "predicate": "developed",
+    "object": "a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ",
+    "confidence": 0.4
+  },
+  {
+    "sentence": "Using a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization , We developed a novel crowdsourcing workflow where learners who are visiting an educational website ( www.pythontutor.com ) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations .",
+    "subject": "where learners who are visiting an educational website ( www.pythontutor.com )",
+    "predicate": "collectively create a tutorial by then voting",
+    "object": "on the best annotations",
+    "confidence": 0.01
+  },
+  {
+    "sentence": "Since there are far more learners than experts , using learners as a crowd is a potentially more scalable way of creating tutorials .",
+    "subject": "using learners as a crowd",
+    "predicate": "is",
+    "object": "a potentially more scalable way of creating tutorials",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "4 expert judges",
+    "predicate": "adding",
+    "object": "145 raw annotations to two pieces of textbook Python code",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We",
+    "predicate": "experiments",
+    "object": "with 4 expert judges the learner crowd 's annotations to be accurate",
+    "confidence": 0.04
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "Python show the learner crowd 's annotations",
+    "predicate": "to be",
+    "object": "accurate",
+    "confidence": 0.48
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "the learner crowd 's annotations",
+    "predicate": "show to be",
+    "object": "informative",
+    "confidence": 0.89
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We code the learner crowd 's annotations",
+    "predicate": "show",
+    "object": "4 expert judges to be informative",
+    "confidence": 0.25
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "4 expert judges",
+    "predicate": "adding",
+    "object": "145 raw annotations to two pieces of textbook code",
+    "confidence": 0.89
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "some insights",
+    "predicate": "missed",
+    "object": "that even experts",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We the learner crowd 's annotations",
+    "predicate": "experiments with show to be containing",
+    "object": "4 expert judges some insights that even experts missed",
+    "confidence": 0.09
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "the learner crowd 's annotations",
+    "predicate": "to be containing",
+    "object": "some insights that even experts missed",
+    "confidence": 0.44
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "101 learners",
+    "predicate": "adding",
+    "object": "145 raw annotations to two pieces of textbook code",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "Python",
+    "predicate": "show",
+    "object": "the learner crowd 's annotations to be accurate",
+    "confidence": 0.85
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We",
+    "predicate": "experiments",
+    "object": "with 101 learners the learner crowd 's annotations to be accurate",
+    "confidence": 0.03
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "Python the learner crowd 's annotations",
+    "predicate": "show to be",
+    "object": "informative",
+    "confidence": 0.83
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We Python show the learner crowd 's annotations",
+    "predicate": "experiments to be",
+    "object": "101 learners informative",
+    "confidence": 0.34
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We experiments with 101 learners Python code",
+    "predicate": "show",
+    "object": "the learner crowd 's annotations to be containing some insights",
+    "confidence": 0.06
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "We",
+    "predicate": "experiments",
+    "object": "with 101 learners",
+    "confidence": 0.81
+  },
+  {
+    "sentence": "We experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd 's annotations to be accurate , informative , and containing some insights that even experts missed .",
+    "subject": "the learner crowd 's annotations",
+    "predicate": "show to be containing",
+    "object": "some insights that even experts missed",
+    "confidence": 0.84
+  },
+  {
+    "sentence": "As the conventional power systems turn towards smart grids ( SGs ) on a fast pace , turn may create new and significant challenges to the existing electrical network security .",
+    "subject": "the conventional power systems",
+    "predicate": "turn",
+    "object": "towards smart grids ( SGs",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "As the conventional power systems turn towards smart grids ( SGs ) on a fast pace , turn may create new and significant challenges to the existing electrical network security .",
+    "subject": "turn",
+    "predicate": "may create",
+    "object": "new challenges to the existing electrical network security",
+    "confidence": 0.0
+  },
+  {
+    "sentence": "As the conventional power systems turn towards smart grids ( SGs ) on a fast pace , turn may create new and significant challenges to the existing electrical network security .",
+    "subject": "turn",
+    "predicate": "may create",
+    "object": "significant challenges to the existing electrical network security",
+    "confidence": 0.01
+  },
+  {
+    "sentence": "Along with many important features of smart grids ( SGs cyber security has emerged to be a critical issue due to the interconnection of several loads , generators , and renewable resources through the communication network .",
+    "subject": "SGs cyber security",
+    "predicate": "has emerged",
+    "object": "Along with many important features of smart grids",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Along with many important features of smart grids ( SGs cyber security has emerged to be a critical issue due to the interconnection of several loads , generators , and renewable resources through the communication network .",
+    "subject": "SGs cyber security",
+    "predicate": "to be",
+    "object": "a critical issue due to the interconnection of several loads through the communication network",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Along with many important features of smart grids ( SGs cyber security has emerged to be a critical issue due to the interconnection of several loads , generators , and renewable resources through the communication network .",
+    "subject": "SGs cyber security",
+    "predicate": "to be",
+    "object": "a critical issue due to the interconnection of several generators through the communication network",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "Along with many important features of smart grids ( SGs cyber security has emerged to be a critical issue due to the interconnection of several loads , generators , and renewable resources through the communication network .",
+    "subject": "SGs cyber security",
+    "predicate": "to be",
+    "object": "a critical issue due to the interconnection of several renewable resources through the communication network",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Cyber-physical attacks ( CPAs ) are classified as the major threatening of SGs security because Cyber-physical attacks ( CPAs ) may lead to severe consequences such as large blackout and destruction of infrastructures .",
+    "subject": "Cyber-physical attacks",
+    "predicate": "are classified",
+    "object": "as the major threatening of SGs security because Cyber-physical attacks ( CPAs ",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Cyber-physical attacks ( CPAs ) are classified as the major threatening of SGs security because Cyber-physical attacks ( CPAs ) may lead to severe consequences such as large blackout and destruction of infrastructures .",
+    "subject": "Cyber-physical attacks",
+    "predicate": "may lead",
+    "object": "to severe consequences such as large blackout",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Cyber-physical attacks ( CPAs ) are classified as the major threatening of SGs security because Cyber-physical attacks ( CPAs ) may lead to severe consequences such as large blackout and destruction of infrastructures .",
+    "subject": "Cyber-physical attacks",
+    "predicate": "are classified",
+    "object": "as the major threatening of SGs security because Cyber-physical attacks ( CPAs ",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Cyber-physical attacks ( CPAs ) are classified as the major threatening of SGs security because Cyber-physical attacks ( CPAs ) may lead to severe consequences such as large blackout and destruction of infrastructures .",
+    "subject": "Cyber-physical attacks",
+    "predicate": "may lead",
+    "object": "to severe consequences such as destruction of infrastructures",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "Cyber switching attacks ( CSAs ) ( as a part CPAs",
+    "predicate": "start",
+    "object": "the attention due to Cyber switching attacks",
+    "confidence": 0.66
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "Cyber switching attacks ( CSAs ) ( as a part CPAs",
+    "predicate": "to attract",
+    "object": "the attention due to Cyber switching attacks",
+    "confidence": 0.81
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "we",
+    "predicate": "present",
+    "object": "in this paper Thyristor-Controlled Braking Resistor",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution",
+    "predicate": "to mitigate",
+    "object": "this type of attack",
+    "confidence": 0.26
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "Cyber switching attacks ( CSAs ) ( as a part CPAs",
+    "predicate": "start to attract",
+    "object": "the attention due to Cyber switching attacks",
+    "confidence": 0.72
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "we a",
+    "predicate": "present",
+    "object": "in this paper Thyristor-Controlled Braking Resistor",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "Cyber switching attacks ( CSAs ) ( as a part CPAs ) start to attract the attention due to Cyber switching attacks ( CSAs ) ( as a part CPAs ) severity and speed in destabilizing smart grids ( SGs , we present in this paper Thyristor-Controlled Braking Resistor ( TCBR ) as a solution to mitigate this type of attack .",
+    "subject": "Cyber switching attacks ( CSAs ) ( as a part CPAs a part CPAs as solution",
+    "predicate": "start mitigate",
+    "object": "this type of attack",
+    "confidence": 0.07
+  },
+  {
+    "sentence": "Thyristor-Controlled Braking Resistor ( TCBR ) can enable us to stabilize the target generator in a relatively short time .",
+    "subject": "Thyristor-Controlled Braking Resistor",
+    "predicate": "can enable",
+    "object": "us to stabilize the target generator in a relatively short time",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Thyristor-Controlled Braking Resistor ( TCBR ) can enable us to stabilize the target generator in a relatively short time .",
+    "subject": "us",
+    "predicate": "to stabilize",
+    "object": "the target generator in a relatively short time",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Background and objective : According to the World Health Organization ( WHO ) epilepsy affects approximately 45-50 million people .",
+    "subject": "epilepsy",
+    "predicate": "affects",
+    "object": "approximately 45-50 million people",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Background and objective : According to the World Health Organization ( WHO ) epilepsy affects approximately 45-50 million people .",
+    "subject": "epilepsy",
+    "predicate": "affects",
+    "object": "approximately 45-50 million people World",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Electroencephalogram ( EEG ) records the neurological activity in the brain and Electroencephalogram ( EEG ) is used to identify epilepsy .",
+    "subject": "Electroencephalogram",
+    "predicate": "records",
+    "object": "the neurological activity in the brain",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Electroencephalogram ( EEG ) records the neurological activity in the brain and Electroencephalogram ( EEG ) is used to identify epilepsy .",
+    "subject": "Electroencephalogram",
+    "predicate": "is used",
+    "object": "to identify epilepsy",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Electroencephalogram ( EEG ) records the neurological activity in the brain and Electroencephalogram ( EEG ) is used to identify epilepsy .",
+    "subject": "Electroencephalogram",
+    "predicate": "to identify",
+    "object": "epilepsy",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Visual inspection of EEG signals is a time-consuming process and Visual inspection of EEG signals may lead to human error .",
+    "subject": "Visual inspection of EEG signals",
+    "predicate": "is",
+    "object": "a time-consuming process",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Visual inspection of EEG signals is a time-consuming process and Visual inspection of EEG signals may lead to human error .",
+    "subject": "Visual inspection of EEG signals",
+    "predicate": "may lead",
+    "object": "to human error",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Feature extraction and classification are two main steps that are required to build an automated epilepsy detection framework .",
+    "subject": "Feature extraction",
+    "predicate": "are",
+    "object": "two main steps that are required to build an automated epilepsy detection framework",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Feature extraction and classification are two main steps that are required to build an automated epilepsy detection framework .",
+    "subject": "two main steps",
+    "predicate": "are required",
+    "object": "to build an automated epilepsy detection framework",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Feature extraction and classification are two main steps that are required to build an automated epilepsy detection framework .",
+    "subject": "two main steps",
+    "predicate": "to build",
+    "object": "an automated epilepsy detection framework",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Feature extraction and classification are two main steps that are required to build an automated epilepsy detection framework .",
+    "subject": "classification",
+    "predicate": "are",
+    "object": "two main steps that are required to build an automated epilepsy detection framework",
+    "confidence": 0.0
+  },
+  {
+    "sentence": "Feature extraction reduces the dimensions of the input signal by retaining informative features and the classifier assigns a proper class label to the extracted feature vector .",
+    "subject": "Feature extraction",
+    "predicate": "reduces",
+    "object": "the dimensions of the input signal by retaining informative features",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Feature extraction reduces the dimensions of the input signal by retaining informative features and the classifier assigns a proper class label to the extracted feature vector .",
+    "subject": "the classifier",
+    "predicate": "assigns",
+    "object": "a proper class label to the extracted feature vector",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Our aim is to present effective feature extraction techniques for automated epileptic EEG signal classification .",
+    "subject": "Our aim",
+    "predicate": "is",
+    "object": "to present effective feature extraction techniques for automated epileptic EEG signal classification",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Neighbor Descriptive Pattern [ LNDP ] and One-dimensional Local Gradient Pattern [ 1D-LGP ] ) have been introduced to classify epileptic EEG signals .",
+    "subject": "Neighbor Descriptive Pattern",
+    "predicate": "have been introduced",
+    "object": "to classify epileptic EEG signals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Neighbor Descriptive Pattern [ LNDP ] and One-dimensional Local Gradient Pattern [ 1D-LGP ] ) have been introduced to classify epileptic EEG signals .",
+    "subject": "Neighbor Descriptive Pattern",
+    "predicate": "to classify",
+    "object": "epileptic EEG signals",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Neighbor Descriptive Pattern [ LNDP ] and One-dimensional Local Gradient Pattern [ 1D-LGP ] ) have been introduced to classify epileptic EEG signals .",
+    "subject": "One-dimensional Local Gradient Pattern",
+    "predicate": "have been introduced",
+    "object": "to classify epileptic EEG signals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Neighbor Descriptive Pattern [ LNDP ] and One-dimensional Local Gradient Pattern [ 1D-LGP ] ) have been introduced to classify epileptic EEG signals .",
+    "subject": "One-dimensional Local Gradient Pattern",
+    "predicate": "to classify",
+    "object": "epileptic EEG signals",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "The classification between epileptic seizure and non -seizure signals is performed using different machine learning classifiers .",
+    "subject": "The classification between epileptic seizure and non -seizure signals",
+    "predicate": "is performed",
+    "object": "using different machine learning",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "The benchmark epilepsy EEG dataset provided by the University of Bonn is used in this study .",
+    "subject": "The benchmark epilepsy EEG dataset",
+    "predicate": "provided",
+    "object": "by the University of Bonn",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "The benchmark epilepsy EEG dataset provided by the University of Bonn is used in this study .",
+    "subject": "The benchmark epilepsy EEG dataset",
+    "predicate": "is used",
+    "object": "in this study",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classification performance is evaluated using 10 -fold cross validation .",
+    "subject": "The classification performance",
+    "predicate": "is evaluated",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classification performance is evaluated using 10 -fold cross validation .",
+    "subject": "The classification performance",
+    "predicate": "using",
+    "object": "10 -fold cross validation",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classifiers used are the Nearest Neighbor ( NN ) , Support Vector Machine ( SVM ) , Decision Tree ( DT ) and Artificial Neural Network ( ANN ) .",
+    "subject": "The classifiers",
+    "predicate": "used",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classifiers used are the Nearest Neighbor ( NN ) , Support Vector Machine ( SVM ) , Decision Tree ( DT ) and Artificial Neural Network ( ANN ) .",
+    "subject": "The classifiers used ( NN )",
+    "predicate": "are",
+    "object": "the Nearest Neighbor",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "The classifiers used are the Nearest Neighbor ( NN ) , Support Vector Machine ( SVM ) , Decision Tree ( DT ) and Artificial Neural Network ( ANN ) .",
+    "subject": "The classifiers used )",
+    "predicate": "are",
+    "object": "Support Vector Machine",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "The classifiers used are the Nearest Neighbor ( NN ) , Support Vector Machine ( SVM ) , Decision Tree ( DT ) and Artificial Neural Network ( ANN ) .",
+    "subject": "The classifiers used",
+    "predicate": "are",
+    "object": "Decision Tree",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classifiers used are the Nearest Neighbor ( NN ) , Support Vector Machine ( SVM ) , Decision Tree ( DT ) and Artificial Neural Network ( ANN ) .",
+    "subject": "The classifiers used )",
+    "predicate": "are",
+    "object": "Artificial Neural Network",
+    "confidence": 0.94
+  },
+  {
+    "sentence": "The experiments have been repeated for 50 times .",
+    "subject": "The experiments",
+    "predicate": "have been repeated",
+    "object": "for 50 times",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Results : Neighbor Descriptive Pattern [ LNDP and 1D-LGPfeature extraction techniques with ANN classifier achieved the average classification accuracy of 99.82 % and 99.80 % , respectively , for the classification between normal and epileptic EEG signals .",
+    "subject": "Neighbor Descriptive Pattern [ LNDP extraction techniques with ANN classifier",
+    "predicate": "achieved respectively",
+    "object": "the average classification accuracy of 99.82 % and 99.80 % , , for the classification between normal and epileptic EEG signals",
+    "confidence": 0.6
+  },
+  {
+    "sentence": "Results : Neighbor Descriptive Pattern [ LNDP and 1D-LGPfeature extraction techniques with ANN classifier achieved the average classification accuracy of 99.82 % and 99.80 % , respectively , for the classification between normal and epileptic EEG signals .",
+    "subject": "with ANN classifier",
+    "predicate": "achieved respectively",
+    "object": "the average classification accuracy of 99.82 % and 99.80 % , , for classification",
+    "confidence": 0.61
+  },
+  {
+    "sentence": "Eight different experimental cases were tested .",
+    "subject": "Eight different experimental cases",
+    "predicate": "were tested",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The classification results were better than those of some existing methods .",
+    "subject": "The classification results",
+    "predicate": "were",
+    "object": "better than those of some existing methods",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Conclusions : this study suggests that Neighbor Descriptive Pattern [ LNDP and 1D-LGPcould be effective feature extraction techniques for the classification of epileptic EEG signals .",
+    "subject": "this study",
+    "predicate": "suggests",
+    "object": "that Neighbor Descriptive Pattern [ LNDP be effective feature extraction techniques for the classification of epileptic EEG signals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Conclusions : this study suggests that Neighbor Descriptive Pattern [ LNDP and 1D-LGPcould be effective feature extraction techniques for the classification of epileptic EEG signals .",
+    "subject": "Neighbor Descriptive Pattern LNDP",
+    "predicate": "be",
+    "object": "effective feature extraction techniques for the classification of epileptic EEG signals",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "Conclusions : this study suggests that Neighbor Descriptive Pattern [ LNDP and 1D-LGPcould be effective feature extraction techniques for the classification of epileptic EEG signals .",
+    "subject": "this study",
+    "predicate": "suggests",
+    "object": "that Neighbor Descriptive Pattern [ 1D-LGPcould be effective feature extraction techniques for the classification of epileptic EEG signals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Conclusions : this study suggests that Neighbor Descriptive Pattern [ LNDP and 1D-LGPcould be effective feature extraction techniques for the classification of epileptic EEG signals .",
+    "subject": "Neighbor Descriptive Pattern 1D-LGPcould",
+    "predicate": "be",
+    "object": "effective feature extraction techniques for the classification of epileptic EEG signals",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware , software , and data sources .",
+    "subject": "Computer networks",
+    "predicate": "consist",
+    "object": "of several assets such as hardware",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware , software , and data sources .",
+    "subject": "Computer networks",
+    "predicate": "consist",
+    "object": "of several assets such as software",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware , software , and data sources .",
+    "subject": "Computer networks",
+    "predicate": "consist",
+    "object": "of several assets such as data sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "several assets such as hardware , software , and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "several assets such as hardware",
+    "predicate": "have",
+    "object": "often some vulnerabilities which can be exploited by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "several assets such as hardware , software , and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "some vulnerabilities",
+    "predicate": "can be exploited",
+    "object": "by attackers often",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "several assets such as hardware , software , and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "attackers",
+    "predicate": "violate",
+    "object": "security policies in Computer networks",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "several assets such as hardware , software , and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "several assets such as software",
+    "predicate": "have",
+    "object": "often some vulnerabilities which can be exploited by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "several assets such as hardware , software , and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "several assets such as data sources",
+    "predicate": "have",
+    "object": "often some vulnerabilities which can be exploited by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "the network administrator",
+    "predicate": "should analyze",
+    "object": "some vulnerabilities which can be exploited by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "some vulnerabilities",
+    "predicate": "can be exploited",
+    "object": "by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "attackers",
+    "predicate": "violate",
+    "object": "security policies in the network network",
+    "confidence": 0.7
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "attackers in the network",
+    "predicate": "security policies to be",
+    "object": "able to efficiently protect a network by mitigating the most risky ones",
+    "confidence": 0.16
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "attackers",
+    "predicate": "to efficiently protect",
+    "object": "a network",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "the network administrator",
+    "predicate": "should prioritize",
+    "object": "some vulnerabilities which can be exploited by attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "attackers",
+    "predicate": "violate",
+    "object": "security policies in the network",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "Considering the limited budget , the network administrator should analyze and prioritize some vulnerabilities which can be exploited by attackers that violate security policies in the network to be able to efficiently protect a network by mitigating the most risky ones .",
+    "subject": "attackers",
+    "predicate": "security policies to be",
+    "object": "able to efficiently protect a network by mitigating the most risky ones",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "So far , several security parameters are offered to analyze security risks from the network security administrator 's perspective .",
+    "subject": "several security parameters",
+    "predicate": "are offered",
+    "object": "to analyze security risks from the network security administrator 's perspective So far",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "So far , several security parameters are offered to analyze security risks from the network security administrator 's perspective .",
+    "subject": "several security parameters",
+    "predicate": "to analyze",
+    "object": "security risks",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The major drawback of these methods is that these methods do not consider attacker 's motivation .",
+    "subject": "The major drawback of these methods",
+    "predicate": "is",
+    "object": "that these methods do not consider attacker 's motivation",
+    "confidence": 0.0
+  },
+  {
+    "sentence": "The major drawback of these methods is that these methods do not consider attacker 's motivation .",
+    "subject": "these methods",
+    "predicate": "do not consider",
+    "object": "attacker 's motivation",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Depending on the motivation of potential attackers , different attack path may be selected for network security compromise .",
+    "subject": "different attack path",
+    "predicate": "may be selected",
+    "object": "for network security compromise",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "So , attacker 's motivation is a key factor in predicting the attacker 's behavior .",
+    "subject": "attacker 's motivation",
+    "predicate": "is",
+    "object": "a key factor in predicting the attacker 's behavior",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , the attacker 's motivation is considered in the process of security risk analysis , so network administrators are able to analyze security risks more accurately .",
+    "subject": "the attacker 's motivation network administrators",
+    "predicate": "is more",
+    "object": "in the process of security risk analysis able to analyze security risks accurately",
+    "confidence": 0.5
+  },
+  {
+    "sentence": "In this paper , the attacker 's motivation is considered in the process of security risk analysis , so network administrators are able to analyze security risks more accurately .",
+    "subject": "so network administrators",
+    "predicate": "are to analyze more accurately",
+    "object": "able security risks",
+    "confidence": 0.4
+  },
+  {
+    "sentence": "In this paper , the attacker 's motivation is considered in the process of security risk analysis , so network administrators are able to analyze security risks more accurately .",
+    "subject": "the attacker 's motivation",
+    "predicate": "is considered",
+    "object": "In this paper in the process of security risk analysis",
+    "confidence": 0.39
+  },
+  {
+    "sentence": "The proposed method is applied on a network and the results are compared with novel works in this area .",
+    "subject": "The proposed method",
+    "predicate": "is applied",
+    "object": "on a network",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The proposed method is applied on a network and the results are compared with novel works in this area .",
+    "subject": "the results",
+    "predicate": "are compared",
+    "object": "with novel works in this area",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "network administrator",
+    "predicate": "to precisely predict",
+    "object": "the behavior of attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "The experimental results",
+    "predicate": "show",
+    "object": "that network administrator will be able to precisely predict the behavior of attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "network administrator",
+    "predicate": "will be",
+    "object": "able to precisely predict the behavior of attackers",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "network administrator",
+    "predicate": "to apply more efficiently",
+    "object": "countermeasures",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "The experimental results",
+    "predicate": "show",
+    "object": "that network administrator will be able to apply countermeasures more efficiently",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The experimental results show that network administrator will be able to precisely predict the behavior of attackers and apply countermeasures more efficiently .",
+    "subject": "network administrator",
+    "predicate": "will be",
+    "object": "able to apply countermeasures more efficiently",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Data sharing and information exchange among medical institutions is a requirement for convenient and effective data availability for both healthcare professionals and patients .",
+    "subject": "Data sharing among medical institutions",
+    "predicate": "is",
+    "object": "a requirement for convenient and effective data availability for both healthcare professionals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Data sharing and information exchange among medical institutions is a requirement for convenient and effective data availability for both healthcare professionals and patients .",
+    "subject": "Data sharing among medical institutions",
+    "predicate": "is",
+    "object": "a requirement for convenient and effective data availability for both patients",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Data sharing and information exchange among medical institutions is a requirement for convenient and effective data availability for both healthcare professionals and patients .",
+    "subject": "information exchange among medical institutions",
+    "predicate": "is",
+    "object": "a requirement for convenient and effective data availability for both healthcare professionals",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Data sharing and information exchange among medical institutions is a requirement for convenient and effective data availability for both healthcare professionals and patients .",
+    "subject": "information exchange among medical institutions",
+    "predicate": "is",
+    "object": "a requirement for convenient and effective data availability for both patients",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , the characteristics of medical data are studied ; two mainstream technologies of data storage for medical information are compared , and three strategies of medical documents storage are described with detailed advantages and disadvantages .",
+    "subject": "the characteristics of medical data",
+    "predicate": "are studied",
+    "object": "In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , the characteristics of medical data are studied ; two mainstream technologies of data storage for medical information are compared , and three strategies of medical documents storage are described with detailed advantages and disadvantages .",
+    "subject": "two mainstream technologies of data storage for medical information",
+    "predicate": "are compared",
+    "object": "In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , the characteristics of medical data are studied ; two mainstream technologies of data storage for medical information are compared , and three strategies of medical documents storage are described with detailed advantages and disadvantages .",
+    "subject": "three strategies of medical documents storage",
+    "predicate": "are described",
+    "object": "In this paper with",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "In this paper , the characteristics of medical data are studied ; two mainstream technologies of data storage for medical information are compared , and three strategies of medical documents storage are described with detailed advantages and disadvantages .",
+    "subject": "three strategies of medical documents storage",
+    "predicate": "are described",
+    "object": "with detailed disadvantages In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Semi-structured storage technology is easier to deploy and much more promising to promote in a wider range than all-structured methods .",
+    "subject": "Semi-structured storage technology",
+    "predicate": "is",
+    "object": "easier to deploy than all-structured methods",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Semi-structured storage technology is easier to deploy and much more promising to promote in a wider range than all-structured methods .",
+    "subject": "Semi-structured storage technology",
+    "predicate": "is",
+    "object": "much more promising to promote in a wider range than all-structured methods",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Semi-structured storage technology is easier to deploy and much more promising to promote in a wider range than all-structured methods .",
+    "subject": "Semi-structured storage technology",
+    "predicate": "to promote",
+    "object": "in a wider range than all-structured methods",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The combination of central and distributed data storage is more practical for regional data sharing .",
+    "subject": "The combination of central data storage",
+    "predicate": "is",
+    "object": "more practical for regional data sharing",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The combination of central and distributed data storage is more practical for regional data sharing .",
+    "subject": "The combination of distributed data storage",
+    "predicate": "is",
+    "object": "more practical for regional data sharing",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that semi-structural data storage technology are efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "semi-structural data storage technology",
+    "predicate": "are",
+    "object": "efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that semi-structural data storage technology fit well the current situation in China",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "semi-structural data storage technology",
+    "predicate": "fit well",
+    "object": "the current situation in China",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that The combination of central data storage are efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "The combination of central data storage",
+    "predicate": "are",
+    "object": "efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that The combination of distributed data storage are efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "The combination of distributed data storage",
+    "predicate": "are",
+    "object": "efficient",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that The combination of central data storage fit well the current situation in China",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This analysis suggests that semi-structural data storage technology and The combination of central and distributed data storage are efficient and fit well the current situation in China .",
+    "subject": "This analysis",
+    "predicate": "suggests",
+    "object": "that The combination of distributed data storage fit well the current situation in China",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Data Structures and Algorithms are a central part of Computer Science .",
+    "subject": "Data Structures",
+    "predicate": "are",
+    "object": "a central part of Computer Science",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Data Structures and Algorithms are a central part of Computer Science .",
+    "subject": "Algorithms",
+    "predicate": "are",
+    "object": "a central part of Computer Science",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Due to Data Structures and Algorithms abstract and dynamic nature , Data Structures and Algorithms are a difficult topic to learn for many students .",
+    "subject": "Data Structures",
+    "predicate": "are",
+    "object": "a difficult topic to learn for many students",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Due to Data Structures and Algorithms abstract and dynamic nature , Data Structures and Algorithms are a difficult topic to learn for many students .",
+    "subject": "Algorithms",
+    "predicate": "are",
+    "object": "a difficult topic to learn for many students",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "To alleviate these learning difficulties , instructors have turned to algorithm visualizations ( AV ) and AV systems .",
+    "subject": "instructors",
+    "predicate": "have turned",
+    "object": "to algorithm visualizations",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "To alleviate these learning difficulties , instructors have turned to algorithm visualizations ( AV ) and AV systems .",
+    "subject": "instructors",
+    "predicate": "have turned",
+    "object": "to AV systems",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Research has shown that especially engaging AVs can have an impact on student learning of DSA topics .",
+    "subject": "Research",
+    "predicate": "has shown",
+    "object": "that especially engaging AVs can have an impact on student learning of DSA topics",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Research has shown that especially engaging AVs can have an impact on student learning of DSA topics .",
+    "subject": "especially engaging AVs",
+    "predicate": "can have",
+    "object": "an impact on student learning of DSA topics",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Until recently , most AV systems were Java-based systems .",
+    "subject": "most AV systems",
+    "predicate": "were",
+    "object": "Java-based systems Until recently",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "But , the popularity of Java has declined and is being supplanted by HTML5 and JavaScript content online .",
+    "subject": "the popularity of Java",
+    "predicate": "has declined",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "But , the popularity of Java has declined and is being supplanted by HTML5 and JavaScript content online .",
+    "subject": "the popularity of Java",
+    "predicate": "is being supplanted",
+    "object": "by HTML5 content online",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "But , the popularity of Java has declined and is being supplanted by HTML5 and JavaScript content online .",
+    "subject": "the popularity of Java",
+    "predicate": "is being supplanted",
+    "object": "by JavaScript content online",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present JSAV : the JavaScript AV development library .",
+    "subject": "we",
+    "predicate": "present",
+    "object": "JSAV In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "JSAV : the JavaScript AV development library goes beyond traditional AV library support for displaying standard data structures components , to provide functionality to simplify creation of AVs on many engagement levels including interactive exercises .",
+    "subject": "the JavaScript AV development library",
+    "predicate": "goes",
+    "object": "beyond traditional AV library support for displaying standard data structures components",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "JSAV : the JavaScript AV development library goes beyond traditional AV library support for displaying standard data structures components , to provide functionality to simplify creation of AVs on many engagement levels including interactive exercises .",
+    "subject": "JSAV",
+    "predicate": "to provide",
+    "object": "functionality creation of AVs including",
+    "confidence": 0.37
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "we",
+    "predicate": "describe",
+    "object": "the growing body of content created with JSAV : the JavaScript AV development library",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "the growing body of content",
+    "predicate": "created",
+    "object": "with JSAV",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "the JavaScript AV development library",
+    "predicate": "to build",
+    "object": "content",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "we content",
+    "predicate": "summarize",
+    "object": "we three years of experience from using JSAV that supports CS education",
+    "confidence": 0.59
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "we content",
+    "predicate": "supports",
+    "object": "we three years of experience from using JSAV : the JavaScript AV development library to build CS education",
+    "confidence": 0.35
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "the JavaScript AV development library",
+    "predicate": "to build",
+    "object": ": content",
+    "confidence": 0.77
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "we content",
+    "predicate": "summarize",
+    "object": "we three years of research results from using JSAV supports CS education",
+    "confidence": 0.72
+  },
+  {
+    "sentence": "we describe the growing body of content created with JSAV : the JavaScript AV development library and summarize we three years of experience and research results from using JSAV : the JavaScript AV development library to build content that supports CS education .",
+    "subject": "JavaScript content",
+    "predicate": "supports",
+    "object": "three years of research results from using JSAV CS education",
+    "confidence": 0.4
+  },
+  {
+    "sentence": "Extracting OWL ontologies from relational databases is extremely helpful for realising the Semantic Web vision .",
+    "subject": "Extracting OWL ontologies from relational databases",
+    "predicate": "is",
+    "object": "extremely helpful for realising the Semantic Web vision",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , most of the approaches in this context often drop many of the expressive features of OWL .",
+    "subject": "most of the approaches in this context",
+    "predicate": "drop",
+    "object": "many of the expressive features of OWL often",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "drop",
+    "predicate": "is",
+    "object": "because highly expressive axioms can not be detected from database schema alone",
+    "confidence": 0.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "highly expressive axioms",
+    "predicate": "can not be detected",
+    "object": "from database schema alone",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "drop",
+    "predicate": "is",
+    "object": "because highly expressive axioms require a combined analysis of the database schema",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "highly expressive axioms",
+    "predicate": "require",
+    "object": "a combined analysis of the database schema",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "drop",
+    "predicate": "is",
+    "object": "because highly expressive axioms require a combined analysis of data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "drop is because highly expressive axioms can not be detected from database schema alone , but instead require a combined analysis of the database schema and data .",
+    "subject": "highly expressive axioms",
+    "predicate": "require",
+    "object": "a combined analysis of data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "we",
+    "predicate": "present",
+    "object": "an approach that transforms a relational schema to a basic OWL schema In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "an approach",
+    "predicate": "transforms",
+    "object": "a relational schema to a basic OWL schema",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "we",
+    "predicate": "present",
+    "object": "an approach that enhances a basic OWL schema with rich OWL 2 constructs In this paper",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "an approach",
+    "predicate": "enhances",
+    "object": "a basic OWL schema with rich OWL 2 constructs",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "rich OWL 2 constructs",
+    "predicate": "using",
+    "object": "schema techniques",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In this paper , we present an approach that transforms a relational schema to a basic OWL schema , and then enhances a basic OWL schema with rich OWL 2 constructs using schema and data analysis techniques .",
+    "subject": "rich OWL 2 constructs",
+    "predicate": "using",
+    "object": "data analysis techniques",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we then rely on the user for the verification of these features .",
+    "subject": "we",
+    "predicate": "rely",
+    "object": "on the user for the verification of these features then",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Furthermore , we apply machine learning algorithms to help in ranking the resulting features based on user supplied relevance scores .",
+    "subject": "the resulting features",
+    "predicate": "based",
+    "object": "on user supplied relevance scores",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "Furthermore , we apply machine learning algorithms to help in ranking the resulting features based on user supplied relevance scores .",
+    "subject": "we",
+    "predicate": "apply supplied",
+    "object": "machine learning algorithms to help in ranking the resulting features relevance scores",
+    "confidence": 0.02
+  },
+  {
+    "sentence": "Furthermore , we apply machine learning algorithms to help in ranking the resulting features based on user supplied relevance scores .",
+    "subject": "we",
+    "predicate": "apply machine learning algorithms to help",
+    "object": "in ranking the resulting features based on user",
+    "confidence": 0.63
+  },
+  {
+    "sentence": "Furthermore , we apply machine learning algorithms to help in ranking the resulting features based on user supplied relevance scores .",
+    "subject": "we",
+    "predicate": "in ranking",
+    "object": "based on supplied relevance scores",
+    "confidence": 0.64
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "we",
+    "predicate": "tool",
+    "object": "on a number of databases",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach",
+    "predicate": "transforms",
+    "object": "that a relational schema to a basic OWL schema",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that transforms a relational schema to a basic OWL schema is feasible",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that transforms a relational schema to a basic OWL schema",
+    "predicate": "is",
+    "object": "feasible",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that transforms a relational schema to a basic OWL schema is effective",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that transforms a relational schema to a basic OWL schema",
+    "predicate": "is",
+    "object": "effective",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach rich OWL 2 constructs",
+    "predicate": "enhances",
+    "object": "it with schema techniques",
+    "confidence": 0.85
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "rich OWL 2 constructs",
+    "predicate": "using",
+    "object": "that enhances it with schema techniques",
+    "confidence": 0.64
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that enhances it with rich OWL 2 constructs using schema techniques is feasible",
+    "confidence": 0.94
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that enhances it with rich OWL 2 constructs techniques",
+    "predicate": "is",
+    "object": "feasible",
+    "confidence": 0.79
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach rich OWL constructs",
+    "predicate": "enhances",
+    "object": "it with 2 data analysis techniques",
+    "confidence": 0.79
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "rich OWL 2 constructs",
+    "predicate": "using",
+    "object": "that it data analysis techniques",
+    "confidence": 0.74
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that enhances it with rich OWL 2 constructs using data analysis techniques is feasible",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that enhances it with rich OWL 2 constructs data analysis techniques",
+    "predicate": "is",
+    "object": "feasible",
+    "confidence": 0.74
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that enhances it with rich OWL 2 constructs using schema techniques is effective",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that enhances it with rich OWL 2 constructs techniques",
+    "predicate": "is",
+    "object": "effective",
+    "confidence": 0.77
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that rich OWL constructs",
+    "predicate": "enhances",
+    "object": "it with 2 data analysis techniques",
+    "confidence": 0.75
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "it rich OWL 2 constructs",
+    "predicate": "using",
+    "object": "data analysis techniques",
+    "confidence": 0.77
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "Testing we tool on a number of databases",
+    "predicate": "demonstrates",
+    "object": "that an approach that enhances it with rich OWL 2 constructs using data analysis techniques is effective",
+    "confidence": 0.92
+  },
+  {
+    "sentence": "Testing we tool on a number of databases demonstrates that an approach that transforms a relational schema to a basic OWL schema , and then enhances it with rich OWL 2 constructs using schema and data analysis techniques is feasible and effective .",
+    "subject": "an approach that enhances it with rich OWL 2 constructs data analysis techniques",
+    "predicate": "is",
+    "object": "effective",
+    "confidence": 0.71
+  },
+  {
+    "sentence": "Formal language theory plays , in computer science , a fundamental role that allows , among other things , the development of one of the cornerstones of information technology : programming languages .",
+    "subject": "Formal language theory",
+    "predicate": "plays",
+    "object": "in computer science",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Formal language theory plays , in computer science , a fundamental role that allows , among other things , the development of one of the cornerstones of information technology : programming languages .",
+    "subject": "a fundamental role",
+    "predicate": "allows",
+    "object": "among other things",
+    "confidence": 0.89
+  },
+  {
+    "sentence": "Formal language theory define the mandatory grammatical rules that programmers need to follow to create the tools that enable humans to interact with machines .",
+    "subject": "Formal language theory",
+    "predicate": "define",
+    "object": "the mandatory grammatical rules that programmers need to follow to create the tools",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Formal language theory define the mandatory grammatical rules that programmers need to follow to create the tools that enable humans to interact with machines .",
+    "subject": "the tools",
+    "predicate": "enable",
+    "object": "humans to interact with machines",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "Formal language theory define the mandatory grammatical rules that programmers need to follow to create the tools that enable humans to interact with machines .",
+    "subject": "the grammatical programmers humans",
+    "predicate": "need to interact",
+    "object": "to follow to create with machines",
+    "confidence": 0.61
+  },
+  {
+    "sentence": "Formal language theory define the mandatory grammatical rules that programmers need to follow to create the tools that enable humans to interact with machines .",
+    "subject": "the mandatory grammatical rules programmers",
+    "predicate": "need follow",
+    "object": "to to create the tools",
+    "confidence": 0.83
+  },
+  {
+    "sentence": "Formal language theory define the mandatory grammatical rules that programmers need to follow to create the tools that enable humans to interact with machines .",
+    "subject": "the mandatory grammatical rules programmers",
+    "predicate": "need to follow to create",
+    "object": "the tools that enable humans to interact with machines",
+    "confidence": 0.84
+  },
+  {
+    "sentence": "Despite Formal language theory significance , formal language theory is often taken for granted , even by software developers , who regularly follow the rules of their programming domain .",
+    "subject": "formal language theory",
+    "predicate": "is taken",
+    "object": "for granted often",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Despite Formal language theory significance , formal language theory is often taken for granted , even by software developers , who regularly follow the rules of their programming domain .",
+    "subject": "software developers",
+    "predicate": "regularly follow",
+    "object": "the rules of their programming domain",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "is creating",
+    "object": "the developer own programming language , data structure",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need",
+    "object": "to dive deep into formal languages",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will need to dive deep",
+    "object": "into formal languages",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need",
+    "object": "to dive deep into grammar",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "need to dive deep",
+    "object": "into grammar",
+    "confidence": 0.94
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "is creating",
+    "object": "the developer own programming language , data structure",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need",
+    "object": "to dive deep into automaton theory",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need to dive",
+    "object": "deep into automaton theory",
+    "confidence": 0.3
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "is describing",
+    "object": "the formal background of an existing one",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need",
+    "object": "to dive deep into formal languages",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need to dive",
+    "object": "deep into formal languages",
+    "confidence": 0.41
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need",
+    "object": "to dive deep into grammar",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Unless the developer is creating the developer own programming language , data structure , or describing the formal background of an existing one , the developer will not need to dive deep into formal languages , grammar or automaton theory .",
+    "subject": "the developer",
+    "predicate": "will not need to dive",
+    "object": "deep into grammar",
+    "confidence": 0.43
+  },
+  {
+    "sentence": "Those who do need to develop their own rules will first have to understand the theory of formal languages , and the limitations formal languages impose .",
+    "subject": "Those who do need to develop their own rules",
+    "predicate": "to understand",
+    "object": "the theory of formal languages",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "Those who do need to develop their own rules will first have to understand the theory of formal languages , and the limitations formal languages impose .",
+    "subject": "Those",
+    "predicate": "do need",
+    "object": "to develop their own rules",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Those who do need to develop their own rules will first have to understand the theory of formal languages , and the limitations formal languages impose .",
+    "subject": "Those",
+    "predicate": "do need to develop",
+    "object": "their own rules",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Those who do need to develop their own rules will first have to understand the theory of formal languages , and the limitations formal languages impose .",
+    "subject": "Those who to develop their own rules",
+    "predicate": "to understand",
+    "object": "the limitations formal languages impose",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "Those who do need to develop their own rules will first have to understand the theory of formal languages , and the limitations formal languages impose .",
+    "subject": "Those the limitations languages",
+    "predicate": "impose",
+    "object": "formal",
+    "confidence": 0.87
+  },
+  {
+    "sentence": "This paper will do an introduction to the fundamentals of language theory , the fundamentals of language theory classification , restrictions and representation .",
+    "subject": "This paper",
+    "predicate": "will do",
+    "object": "an introduction to the fundamentals of language theory , the fundamentals of language theory classification",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper will do an introduction to the fundamentals of language theory , the fundamentals of language theory classification , restrictions and representation .",
+    "subject": "This paper",
+    "predicate": "will do",
+    "object": "an introduction to the fundamentals of language theory , the fundamentals of language theory restrictions",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper will do an introduction to the fundamentals of language theory , the fundamentals of language theory classification , restrictions and representation .",
+    "subject": "This paper",
+    "predicate": "will do",
+    "object": "an introduction to the fundamentals of language theory , the fundamentals of language theory representation",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Once the fundamentals of language theory are set , we will use a worldwide known data structure format such as the JavaScript Object Notation ( JSON ) , to formally define its grammar rules and automaton .",
+    "subject": "the fundamentals of language theory",
+    "predicate": "are set",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Once the fundamentals of language theory are set , we will use a worldwide known data structure format such as the JavaScript Object Notation ( JSON ) , to formally define its grammar rules and automaton .",
+    "subject": "we",
+    "predicate": "will use",
+    "object": "a worldwide known data structure format such as the JavaScript Object Notation Once the fundamentals of language theory are set",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Once the fundamentals of language theory are set , we will use a worldwide known data structure format such as the JavaScript Object Notation ( JSON ) , to formally define its grammar rules and automaton .",
+    "subject": "we",
+    "predicate": "will use a worldwide known data structure format such as to formally define",
+    "object": "its grammar rules",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "Once the fundamentals of language theory are set , we will use a worldwide known data structure format such as the JavaScript Object Notation ( JSON ) , to formally define its grammar rules and automaton .",
+    "subject": "we",
+    "predicate": "will use a worldwide known data structure format such as to formally define",
+    "object": "its automaton",
+    "confidence": 0.79
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "All of this formal background",
+    "predicate": "will allow",
+    "object": "us to transform theory into bits , by developing an algorithm",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "us",
+    "predicate": "to transform",
+    "object": "theory into bits",
+    "confidence": 0.84
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "algorithm that will analyze streams of texts , streams texts as streams of texts",
+    "predicate": "comply",
+    "object": "the predefined rules",
+    "confidence": 0.47
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "an algorithm that streams of texts ,",
+    "predicate": "accepting",
+    "object": "streams of texts as streams of texts",
+    "confidence": 0.21
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "an algorithm will analyze streams of texts",
+    "predicate": "accepting",
+    "object": "streams of texts as streams of texts not with the predefined rules",
+    "confidence": 0.26
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "that will analyze texts , streams of texts",
+    "predicate": "comply",
+    "object": "as the predefined rules",
+    "confidence": 0.72
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "an algorithm that streams of texts ,",
+    "predicate": "rejecting",
+    "object": "streams of texts as streams of texts comply the predefined rules",
+    "confidence": 0.27
+  },
+  {
+    "sentence": "All of this formal background will allow us to transform theory into bits , by developing an algorithm that will analyze streams of texts , accepting or rejecting streams of texts as streams of texts comply or not with the predefined rules .",
+    "subject": "an algorithm that will analyze streams of texts",
+    "predicate": "rejecting",
+    "object": "streams of texts as streams of texts not with the predefined rules",
+    "confidence": 0.37
+  },
+  {
+    "sentence": "Finally , we will analyze the outcomes of this implementation , this implementation benefits , limitations , and alternatives that could have been followed .",
+    "subject": "we",
+    "predicate": "will analyze",
+    "object": "the outcomes of this implementation Finally",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Finally , we will analyze the outcomes of this implementation , this implementation benefits , limitations , and alternatives that could have been followed .",
+    "subject": "this implementation benefits",
+    "predicate": "could have been followed",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Finally , we will analyze the outcomes of this implementation , this implementation benefits , limitations , and alternatives that could have been followed .",
+    "subject": "we",
+    "predicate": "will analyze",
+    "object": "the outcomes of this implementation this implementation limitations Finally",
+    "confidence": 0.92
+  },
+  {
+    "sentence": "Finally , we will analyze the outcomes of this implementation , this implementation benefits , limitations , and alternatives that could have been followed .",
+    "subject": "this implementation limitations",
+    "predicate": "could have been followed",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Finally , we will analyze the outcomes of this implementation , this implementation benefits , limitations , and alternatives that could have been followed .",
+    "subject": "this implementation alternatives",
+    "predicate": "could have been followed",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In the last two decades , we have seen an amazing development of image processing techniques targeted for medical applications .",
+    "subject": "we",
+    "predicate": "have seen",
+    "object": "an amazing development of image processing techniques In the last two decades",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In the last two decades , we have seen an amazing development of image processing techniques targeted for medical applications .",
+    "subject": "image processing techniques",
+    "predicate": "targeted",
+    "object": "for medical applications",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we propose multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection , aiming at accelerating two medical image processing methods : automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images .",
+    "subject": "we",
+    "predicate": "propose",
+    "object": "multi-GPU-based parallel real-time algorithms for segmentation",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we propose multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection , aiming at accelerating two medical image processing methods : automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images .",
+    "subject": "we",
+    "predicate": "propose multi-GPU-based parallel real-time algorithms for segmentation aiming",
+    "object": "at accelerating two medical image processing methods",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "we propose multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection , aiming at accelerating two medical image processing methods : automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images .",
+    "subject": "we",
+    "predicate": "propose",
+    "object": "multi-GPU-based parallel real-time algorithms for shape-based object detection",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "we propose multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection , aiming at accelerating two medical image processing methods : automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images .",
+    "subject": "we",
+    "predicate": "multi-GPU-based parallel real-time algorithms for shape-based object detection aiming",
+    "object": "at accelerating two medical image processing methods",
+    "confidence": 0.74
+  },
+  {
+    "sentence": "we propose multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection , aiming at accelerating two medical image processing methods : automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images .",
+    "subject": "we object",
+    "predicate": "multi-GPU-based parallel real-time algorithms for shape-based detection aiming",
+    "object": "at accelerating two medical image processing methods",
+    "confidence": 0.7
+  },
+  {
+    "sentence": "In automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images we identified segmentation and object detection as being responsible for consuming most of the global processing time .",
+    "subject": "we",
+    "predicate": "identified",
+    "object": "segmentation as being responsible for consuming most of the global processing time In automated blood detection in wireless capsule endoscopy ( WCE ",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "In automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images we identified segmentation and object detection as being responsible for consuming most of the global processing time .",
+    "subject": "we",
+    "predicate": "identified",
+    "object": "object detection as being responsible for consuming most of the global processing time In automated blood detection in wireless capsule endoscopy ( WCE ",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "In automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images we identified segmentation and object detection as being responsible for consuming most of the global processing time .",
+    "subject": "we",
+    "predicate": "identified",
+    "object": "segmentation as being responsible for consuming most of the global processing time In automated bright lesion detection in retinal fundus images",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In automated blood detection in wireless capsule endoscopy ( WCE ) images and automated bright lesion detection in retinal fundus images we identified segmentation and object detection as being responsible for consuming most of the global processing time .",
+    "subject": "we",
+    "predicate": "identified",
+    "object": "object detection as being responsible for consuming most of the global processing time In automated bright lesion detection in retinal fundus images",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "While in automated bright lesion detection in retinal fundus images , as segmentation was not used , shape-based object detection was the compute-intensive task identified .",
+    "subject": "segmentation",
+    "predicate": "was not used",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "While in automated bright lesion detection in retinal fundus images , as segmentation was not used , shape-based object detection was the compute-intensive task identified .",
+    "subject": "shape-based object detection",
+    "predicate": "was",
+    "object": "the compute-intensive task identified While in automated bright lesion detection in retinal fundus images , as segmentation was not used",
+    "confidence": 0.01
+  },
+  {
+    "sentence": "While in automated bright lesion detection in retinal fundus images , as segmentation was not used , shape-based object detection was the compute-intensive task identified .",
+    "subject": "the compute-intensive task",
+    "predicate": "identified",
+    "object": "",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "the accelerated method",
+    "predicate": "running",
+    "object": "on multi-GPU systems for blood detection in WCE images",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "Experimental results",
+    "predicate": "show",
+    "object": "that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "the accelerated method running on multi-GPU systems for blood detection in WCE images",
+    "predicate": "is",
+    "object": "on average 265 times faster than the original CPU version",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "Experimental results",
+    "predicate": "show to process",
+    "object": "that the accelerated method running on multi-GPU systems for blood detection in WCE images is able 344 frames per second",
+    "confidence": 0.72
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "Experimental results",
+    "predicate": "show",
+    "object": "that the accelerated method running on multi-GPU systems for blood detection in WCE images is able to process 344 frames per second",
+    "confidence": 0.47
+  },
+  {
+    "sentence": "Experimental results show that the accelerated method running on multi-GPU systems for blood detection in WCE images is on average 265 times faster than the original CPU version and is able to process 344 frames per second .",
+    "subject": "the accelerated method running on multi-GPU systems for blood detection in WCE images",
+    "predicate": "is",
+    "object": "able to process 344 frames per second",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "By applying multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection for bright lesion detection in fundus images we are able to process 62 frames per second with a speedup average 667 times faster than the original CPU version .",
+    "subject": "we",
+    "predicate": "are",
+    "object": "able to process 62 frames per second with a speedup average 667 times faster than the original CPU version images",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "By applying multi-GPU-based parallel real-time algorithms for segmentation and shape-based object detection for bright lesion detection in fundus images we are able to process 62 frames per second with a speedup average 667 times faster than the original CPU version .",
+    "subject": "we",
+    "predicate": "to process faster",
+    "object": "62 frames per second times",
+    "confidence": 0.52
+  },
+  {
+    "sentence": "In this paper we focus on gender classification from face images .",
+    "subject": "we",
+    "predicate": "focus",
+    "object": "on gender classification from face images In this paper",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Despite advances in equipment as well as methods , automatic face image processing for recognition or even just for the extraction of demographics , is still a challenging task in unrestricted scenarios .",
+    "subject": "Despite equipment as well automatic face image processing for recognition",
+    "predicate": "is",
+    "object": "still a challenging task in unrestricted scenarios",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "Despite advances in equipment as well as methods , automatic face image processing for recognition or even just for the extraction of demographics , is still a challenging task in unrestricted scenarios .",
+    "subject": "automatic face image processing just for the extraction of demographics",
+    "predicate": "is",
+    "object": "still a challenging task in unrestricted scenarios",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Our tests are aimed at carrying out an extensive comparison of a feature based approach with two score based ones .",
+    "subject": "Our tests",
+    "predicate": "are aimed",
+    "object": "at carrying out an extensive comparison of a feature based approach with two score based ones",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Our tests are aimed at carrying out an extensive comparison of a feature based approach with two score based ones .",
+    "subject": "Our tests",
+    "predicate": "at carrying out",
+    "object": "an extensive comparison of a feature based approach with two score based ones",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "Our tests are aimed at carrying out an extensive comparison of a feature based approach with two score based ones .",
+    "subject": "two score",
+    "predicate": "based",
+    "object": "ones",
+    "confidence": 0.87
+  },
+  {
+    "sentence": "When directly using features , Our first apply different operators to extract the corresponding feature vectors , and then stack the corresponding feature vectors .",
+    "subject": "Our first",
+    "predicate": "apply",
+    "object": "different operators to extract the corresponding feature vectors directly",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "When directly using features , Our first apply different operators to extract the corresponding feature vectors , and then stack the corresponding feature vectors .",
+    "subject": "Our",
+    "predicate": "stack",
+    "object": "the corresponding feature vectors When directly using features",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "the corresponding feature vectors are classified by a SVM-based approach .",
+    "subject": "the corresponding feature vectors",
+    "predicate": "are classified",
+    "object": "by a SVM-based approach",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "When using scores , different operators are applied in a completely separate way , so that each of different operators produces the corresponding scores .",
+    "subject": "different operators",
+    "predicate": "are applied",
+    "object": "When using scores",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "When using scores , different operators are applied in a completely separate way , so that each of different operators produces the corresponding scores .",
+    "subject": "each of different operators",
+    "predicate": "produces",
+    "object": "the corresponding scores",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Answers are then either fed to a SVM , or compared pairwise to exploit Likelihood Ratio .",
+    "subject": "Answers",
+    "predicate": "are",
+    "object": "either fed to a SVM then",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "Answers are then either fed to a SVM , or compared pairwise to exploit Likelihood Ratio .",
+    "subject": "Answers",
+    "predicate": "fed",
+    "object": "to a SVM",
+    "confidence": 0.88
+  },
+  {
+    "sentence": "Answers are then either fed to a SVM , or compared pairwise to exploit Likelihood Ratio .",
+    "subject": "Answers",
+    "predicate": "are",
+    "object": "then either compared pairwise to exploit Likelihood Ratio",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Answers are then either fed to a SVM , or compared pairwise to exploit Likelihood Ratio .",
+    "subject": "Answers",
+    "predicate": "compared pairwise",
+    "object": "to exploit Likelihood Ratio",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "The testbeds used for experiments are EGA database , which presents a good balance with respect to demographic features of stored face images , and GROPUS , an increasingly popular benchmark for massive experiments .",
+    "subject": "The testbeds",
+    "predicate": "used",
+    "object": "for experiments",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The testbeds used for experiments are EGA database , which presents a good balance with respect to demographic features of stored face images , and GROPUS , an increasingly popular benchmark for massive experiments .",
+    "subject": "The testbeds used for experiments",
+    "predicate": "are",
+    "object": "EGA database",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The testbeds used for experiments are EGA database , which presents a good balance with respect to demographic features of stored face images , and GROPUS , an increasingly popular benchmark for massive experiments .",
+    "subject": "EGA database",
+    "predicate": "presents",
+    "object": "a good balance with respect to demographic features of stored face images",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The testbeds used for experiments are EGA database , which presents a good balance with respect to demographic features of stored face images , and GROPUS , an increasingly popular benchmark for massive experiments .",
+    "subject": "The testbeds used for experiments",
+    "predicate": "are",
+    "object": "GROPUS",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The obtained performances confirm that feature level fusion achieves an often better classification accuracy .",
+    "subject": "The obtained performances",
+    "predicate": "confirm",
+    "object": "that feature level fusion achieves an often better classification accuracy",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The obtained performances confirm that feature level fusion achieves an often better classification accuracy .",
+    "subject": "feature level fusion",
+    "predicate": "achieves",
+    "object": "an often better classification accuracy",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , feature level fusion is computationally expensive .",
+    "subject": "feature level fusion",
+    "predicate": "is",
+    "object": "computationally expensive",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "contain",
+    "object": "a tremendous amount of structured data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "structured data",
+    "predicate": "can be leveraged",
+    "object": "to build and augment knowledge graphs",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "contain",
+    "object": "a tremendous amount of structured data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "Information sources such as XML",
+    "predicate": "contain",
+    "object": "a tremendous amount of structured data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "that",
+    "predicate": "augment",
+    "object": "",
+    "confidence": 0.68
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "Information sources such as JSON",
+    "predicate": "contain",
+    "object": "a tremendous amount of structured data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "contain",
+    "object": "a tremendous amount of structured data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as relational databases rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as spreadsheets rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as spreadsheets",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as XML rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as JSON rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as relational databases",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as Web APIs contents rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as relational databases rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as spreadsheets rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as XML rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as XML",
+    "confidence": 0.81
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as JSON rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as JSON",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as spreadsheets",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as Web APIs contents rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as Web APIs contents",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as XML",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as relational databases rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as relational databases",
+    "confidence": 0.87
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as XML",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as spreadsheets rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as spreadsheets",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as XML",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as XML rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as XML",
+    "confidence": 0.85
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as XML",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as JSON rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as JSON",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as XML",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as Web APIs contents rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as Web APIs contents",
+    "confidence": 0.89
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as relational databases rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "JSON",
+    "predicate": "to describe",
+    "object": "Information sources such as relational databases",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as spreadsheets rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources as JSON a semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as spreadsheets",
+    "confidence": 0.71
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as XML rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as XML",
+    "confidence": 0.87
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as JSON rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as Web APIs contents rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as JSON a semantic model",
+    "predicate": "to describe",
+    "object": "Information sources such as Web APIs contents",
+    "confidence": 0.7
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as relational databases rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as spreadsheets rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "a semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as spreadsheets",
+    "confidence": 0.88
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as XML rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as JSON rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "semantic",
+    "predicate": "to describe",
+    "object": "Information sources such as JSON",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "However , Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs rarely provide a semantic model to describe Information sources such as relational databases , spreadsheets , XML , JSON , and Web APIs contents .",
+    "subject": "Information sources such as Web APIs",
+    "predicate": "provide",
+    "object": "a semantic model to describe Information sources such as Web APIs contents rarely",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Semantic models of data sources represent the implicit meaning of the data by specifying the concepts and the relationships within the data .",
+    "subject": "Semantic models of data sources",
+    "predicate": "represent",
+    "object": "the implicit meaning of the data",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Semantic models of data sources represent the implicit meaning of the data by specifying the concepts and the relationships within the data .",
+    "subject": "Semantic models of data sources",
+    "predicate": "by specifying",
+    "object": "the concepts",
+    "confidence": 0.71
+  },
+  {
+    "sentence": "Semantic models of data sources represent the implicit meaning of the data by specifying the concepts and the relationships within the data .",
+    "subject": "Semantic models data sources",
+    "predicate": "by specifying",
+    "object": "the relationships within the data",
+    "confidence": 0.62
+  },
+  {
+    "sentence": "Such models are the key ingredients to automatically publish the data into knowledge graphs .",
+    "subject": "Such models",
+    "predicate": "are",
+    "object": "the key ingredients to automatically publish the data into knowledge graphs",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Such models are the key ingredients to automatically publish the data into knowledge graphs .",
+    "subject": "the key ingredients",
+    "predicate": "to automatically publish",
+    "object": "the data into knowledge graphs",
+    "confidence": 0.89
+  },
+  {
+    "sentence": "Manually modeling the semantics of data sources requires significant effort and expertise , and although desirable , building Such models automatically is a challenging problem .",
+    "subject": "desirable",
+    "predicate": "building",
+    "object": "Such models",
+    "confidence": 0.97
+  },
+  {
+    "sentence": "Manually modeling the semantics of data sources requires significant effort and expertise , and although desirable , building Such models automatically is a challenging problem .",
+    "subject": "although desirable , building Such models",
+    "predicate": "automatically is",
+    "object": "a challenging problem",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Manually modeling the semantics of data sources requires significant effort and expertise , and although desirable , building Such models automatically is a challenging problem .",
+    "subject": "Manually modeling the semantics of data sources",
+    "predicate": "requires",
+    "object": "significant effort",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Manually modeling the semantics of data sources requires significant effort and expertise , and although desirable , building Such models automatically is a challenging problem .",
+    "subject": "Manually modeling the semantics of data sources",
+    "predicate": "requires",
+    "object": "significant expertise",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Most of the related work focuses on semantic annotation of the data fields ( source attributes ) .",
+    "subject": "Most of the related work",
+    "predicate": "focuses",
+    "object": "on semantic annotation of the data fields",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "However , constructing a semantic model that explicitly describes the relationships between the attributes in addition to the attributes semantic types is critical .",
+    "subject": "a semantic model",
+    "predicate": "explicitly describes",
+    "object": "the relationships between the attributes in addition to the attributes semantic types",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "However , constructing a semantic model that explicitly describes the relationships between the attributes in addition to the attributes semantic types is critical .",
+    "subject": ", constructing a semantic model that explicitly describes the relationships between the attributes in addition to the attributes semantic types",
+    "predicate": "is",
+    "object": "critical",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "We",
+    "predicate": "present",
+    "object": "a novel approach that exploits the knowledge from a domain ontology automatically learn a rich semantic model",
+    "confidence": 0.88
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "a novel approach",
+    "predicate": "exploits",
+    "object": "the knowledge from a domain ontology to automatically a rich semantic model for a new source",
+    "confidence": 0.78
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "a novel approach that exploits the knowledge from a domain ontology",
+    "predicate": "to automatically learn",
+    "object": "a rich semantic model for a new source",
+    "confidence": 0.69
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "We",
+    "predicate": "present",
+    "object": "a novel approach that exploits the semantic models of previously modeled sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "a novel approach",
+    "predicate": "exploits",
+    "object": "the semantic models of previously modeled sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "We present a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source .",
+    "subject": "a novel approach the semantic models of previously modeled sources",
+    "predicate": "to automatically learn",
+    "object": "a rich semantic model for a new source",
+    "confidence": 0.17
+  },
+  {
+    "sentence": "a rich semantic model for a new source represents the semantics of a new source in terms of the concepts and relationships defined by a domain ontology .",
+    "subject": "a rich semantic model for a new source",
+    "predicate": "represents",
+    "object": "the semantics of a new source in terms of the concepts",
+    "confidence": 0.94
+  },
+  {
+    "sentence": "a rich semantic model for a new source represents the semantics of a new source in terms of the concepts and relationships defined by a domain ontology .",
+    "subject": "the concepts",
+    "predicate": "defined",
+    "object": "by a domain ontology",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "a rich semantic model for a new source represents the semantics of a new source in terms of the concepts and relationships defined by a domain ontology .",
+    "subject": "a rich semantic model for a new source",
+    "predicate": "represents",
+    "object": "the semantics of a new source in terms of the relationships",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "a rich semantic model for a new source represents the semantics of a new source in terms of the concepts and relationships defined by a domain ontology .",
+    "subject": "the relationships",
+    "predicate": "defined",
+    "object": "by a domain ontology",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Given some sample data from a new source , We leverage the knowledge in a domain ontology and the known semantic models to construct a weighted graph that represents the space of plausible semantic models for a new source .",
+    "subject": "a weighted graph",
+    "predicate": "represents",
+    "object": "the space of plausible semantic models for a new source",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Given some sample data from a new source , We leverage the knowledge in a domain ontology and the known semantic models to construct a weighted graph that represents the space of plausible semantic models for a new source .",
+    "subject": "We",
+    "predicate": "leverage",
+    "object": "the knowledge in a domain ontology",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Given some sample data from a new source , We leverage the knowledge in a domain ontology and the known semantic models to construct a weighted graph that represents the space of plausible semantic models for a new source .",
+    "subject": "We",
+    "predicate": "leverage the knowledge in a domain ontology to construct",
+    "object": "a weighted graph that represents the space of plausible semantic models for a new source",
+    "confidence": 0.81
+  },
+  {
+    "sentence": "Given some sample data from a new source , We leverage the knowledge in a domain ontology and the known semantic models to construct a weighted graph that represents the space of plausible semantic models for a new source .",
+    "subject": "We",
+    "predicate": "leverage",
+    "object": "the known semantic models to construct a weighted graph",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Given some sample data from a new source , We leverage the knowledge in a domain ontology and the known semantic models to construct a weighted graph that represents the space of plausible semantic models for a new source .",
+    "subject": "We",
+    "predicate": "leverage the known semantic models to construct",
+    "object": "a weighted graph that represents the space of plausible semantic models for a new source",
+    "confidence": 0.5
+  },
+  {
+    "sentence": "Then , We compute the top k candidate semantic models and suggest to the user a ranked list of the semantic models for a new source .",
+    "subject": "We",
+    "predicate": "compute",
+    "object": "the top k candidate semantic models Then",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Then , We compute the top k candidate semantic models and suggest to the user a ranked list of the semantic models for a new source .",
+    "subject": "We",
+    "predicate": "suggest",
+    "object": "to the user a ranked list of the semantic models for a new source Then",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "The approach takes into account user corrections to learn more accurate semantic models on future data sources .",
+    "subject": "The approach",
+    "predicate": "takes",
+    "object": "into account user corrections to learn more accurate semantic models on future data sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "We evaluation",
+    "predicate": "shows",
+    "object": "that a novel approach that exploits the knowledge from a domain ontology to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources with minimal user input",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that exploits the knowledge from a domain ontology model for",
+    "predicate": "to automatically learn generates",
+    "object": "a rich semantic a new source expressive semantic models for data sources with minimal user input",
+    "confidence": 0.4
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that",
+    "predicate": "exploits",
+    "object": "the knowledge from a domain ontology",
+    "confidence": 0.65
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that",
+    "predicate": "the knowledge from a domain ontology to automatically learn",
+    "object": "a rich semantic model for a new source",
+    "confidence": 0.04
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "We evaluation",
+    "predicate": "shows",
+    "object": "that a novel approach that exploits the knowledge from a domain ontology to automatically learn a rich semantic model for a new source generates expressive semantic models for services with minimal user input",
+    "confidence": 0.8
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that exploits the knowledge from a domain ontology to a model for new",
+    "predicate": "automatically learn generates",
+    "object": "rich semantic a source expressive semantic models for services with minimal user input",
+    "confidence": 0.39
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "We evaluation",
+    "predicate": "shows",
+    "object": "that a novel approach that exploits the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources with minimal user input",
+    "confidence": 0.83
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that exploits the semantic models of previously modeled sources model",
+    "predicate": "automatically learn generates",
+    "object": "to a rich semantic for a new source expressive semantic models for data sources with minimal user input",
+    "confidence": 0.36
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that",
+    "predicate": "exploits",
+    "object": "the semantic models of previously modeled sources",
+    "confidence": 0.53
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach",
+    "predicate": "modeled automatically learn",
+    "object": "the semantic models of previously sources a rich semantic model for a new source",
+    "confidence": 0.02
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "We evaluation",
+    "predicate": "shows",
+    "object": "that a novel approach that exploits the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for services with minimal user input",
+    "confidence": 0.67
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that exploits the semantic models of previously modeled sources learn model for",
+    "predicate": "automatically generates",
+    "object": "to a rich semantic a new source expressive semantic models for services with minimal user input",
+    "confidence": 0.21
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach that",
+    "predicate": "exploits",
+    "object": "the semantic models of previously modeled sources",
+    "confidence": 0.45
+  },
+  {
+    "sentence": "We evaluation shows that a novel approach that exploits the knowledge from a domain ontology and the semantic models of previously modeled sources to automatically learn a rich semantic model for a new source generates expressive semantic models for data sources and services with minimal user input .",
+    "subject": "a novel approach the semantic of previously modeled",
+    "predicate": "automatically learn",
+    "object": "models sources a rich semantic model for a new source",
+    "confidence": 0.03
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data sources",
+    "predicate": "make",
+    "object": "it possible to automatically integrate the data across sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data services",
+    "predicate": "make",
+    "object": "it possible to automatically integrate the data across sources",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data sources",
+    "predicate": "make",
+    "object": "it possible to provide rich support for source discovery",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data sources",
+    "predicate": "make",
+    "object": "it possible to provide rich support for service composition",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data services",
+    "predicate": "make",
+    "object": "it possible to provide rich support for source discovery",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services make it possible to automatically integrate the data across sources and provide rich support for source discovery and service composition .",
+    "subject": "expressive semantic models for data services",
+    "predicate": "make",
+    "object": "it possible to provide rich support for service composition",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services also make it possible to automatically publish semantic data into knowledge graphs .",
+    "subject": "expressive semantic models for data sources",
+    "predicate": "also make",
+    "object": "it possible to automatically publish semantic data into knowledge graphs",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "expressive semantic models for data sources and services also make it possible to automatically publish semantic data into knowledge graphs .",
+    "subject": "expressive semantic models for data services",
+    "predicate": "also make",
+    "object": "it possible to automatically publish semantic data into knowledge graphs",
+    "confidence": 0.98
+  },
+  {
+    "sentence": "Information technology has been contributing to various areas of knowledge ; in particular , the field of education stands out .",
+    "subject": "the field of education",
+    "predicate": "stands out",
+    "object": "",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Information technology has been contributing to various areas of knowledge ; in particular , the field of education stands out .",
+    "subject": "Information technology",
+    "predicate": "has been contributing",
+    "object": "to various areas of knowledge",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In what concerns the teaching of computer programming , literature contains important efforts that aim to assist in the learning process .",
+    "subject": "literature",
+    "predicate": "contains",
+    "object": "important efforts that aim to assist in the learning process In what concerns the teaching of computer programming",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In what concerns the teaching of computer programming , literature contains important efforts that aim to assist in the learning process .",
+    "subject": "important efforts",
+    "predicate": "aim",
+    "object": "to assist in the learning process",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "In what concerns the teaching of computer programming , literature contains important efforts that aim to assist in the learning process .",
+    "subject": "important efforts",
+    "predicate": "aim to assist",
+    "object": "in the learning process",
+    "confidence": 0.99
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "new Computer Science students",
+    "predicate": "have",
+    "object": "difficulties in understanding the problem logics usually",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "Teaching algorithms for first year students",
+    "predicate": "has been",
+    "object": "a great challenge for universities always",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "new Computer Science students",
+    "predicate": "have in understanding",
+    "object": "the problem logics",
+    "confidence": 0.63
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "new Computer Science students",
+    "predicate": "have",
+    "object": "difficulties in abstracting the problem logics usually",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "new Computer Science students",
+    "predicate": "have in abstracting",
+    "object": "the problem logics",
+    "confidence": 0.62
+  },
+  {
+    "sentence": "Teaching algorithms and programming concepts for first year students has always been a great challenge for universities , new Computer Science students usually have difficulties in understanding and abstracting the problem logics .",
+    "subject": "Teaching programming concepts for first year students",
+    "predicate": "has been",
+    "object": "a great challenge for universities always",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "An alternative that has contributed to the teaching-learning process is the use of Learning Objects ( LO ) , which contribute towards mediating and enhancing the teaching-learning process .",
+    "subject": "An alternative",
+    "predicate": "has contributed",
+    "object": "to the teaching-learning process",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "An alternative that has contributed to the teaching-learning process is the use of Learning Objects ( LO ) , which contribute towards mediating and enhancing the teaching-learning process .",
+    "subject": "An alternative that has contributed to the teaching-learning process",
+    "predicate": "is",
+    "object": "the use of Learning Objects",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "An alternative that has contributed to the teaching-learning process is the use of Learning Objects ( LO ) , which contribute towards mediating and enhancing the teaching-learning process .",
+    "subject": "the use of Learning Objects",
+    "predicate": "contribute",
+    "object": "towards mediating the teaching-learning process",
+    "confidence": 0.83
+  },
+  {
+    "sentence": "An alternative that has contributed to the teaching-learning process is the use of Learning Objects ( LO ) , which contribute towards mediating and enhancing the teaching-learning process .",
+    "subject": "the use of Learning Objects",
+    "predicate": "contribute",
+    "object": "towards enhancing the teaching-learning process",
+    "confidence": 0.88
+  },
+  {
+    "sentence": "One of the great difficulties of learning during the initial semesters of Engineering and Computer Science courses is related to the contents of computer programming , which increases the students ' failure level and also the dropout rate of such courses .",
+    "subject": "One of the great difficulties of learning during the initial semesters of Engineering courses",
+    "predicate": "is related",
+    "object": "to the contents of computer programming",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "One of the great difficulties of learning during the initial semesters of Engineering and Computer Science courses is related to the contents of computer programming , which increases the students ' failure level and also the dropout rate of such courses .",
+    "subject": "computer programming",
+    "predicate": "increases",
+    "object": "the students ' failure level",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "One of the great difficulties of learning during the initial semesters of Engineering and Computer Science courses is related to the contents of computer programming , which increases the students ' failure level and also the dropout rate of such courses .",
+    "subject": "One of the great difficulties of learning during the initial semesters of Computer Science courses",
+    "predicate": "is related",
+    "object": "to the contents of computer programming",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "One of the great difficulties of learning during the initial semesters of Engineering and Computer Science courses is related to the contents of computer programming , which increases the students ' failure level and also the dropout rate of such courses .",
+    "subject": "the of computer programming",
+    "predicate": "increases",
+    "object": "the students ' failure level",
+    "confidence": 0.91
+  },
+  {
+    "sentence": "In order to decrease those rates , we have developed a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses , and the results were very positive .",
+    "subject": "we",
+    "predicate": "have developed",
+    "object": "a project to create various learning objects help concepts",
+    "confidence": 0.79
+  },
+  {
+    "sentence": "In order to decrease those rates , we have developed a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses , and the results were very positive .",
+    "subject": "we",
+    "predicate": "to create",
+    "object": "a project various learning objects to help teach concepts students of Science courses",
+    "confidence": 0.15
+  },
+  {
+    "sentence": "In order to decrease those rates , we have developed a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses , and the results were very positive .",
+    "subject": "we a project",
+    "predicate": "have developed various learning objects to help",
+    "object": "teach concepts that are considered difficult to understand by students of Science courses",
+    "confidence": 0.11
+  },
+  {
+    "sentence": "In order to decrease those rates , we have developed a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses , and the results were very positive .",
+    "subject": "we to create",
+    "predicate": "teach",
+    "object": "concepts that are considered difficult to understand by students of Science courses",
+    "confidence": 0.12
+  },
+  {
+    "sentence": "In order to decrease those rates , we have developed a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses , and the results were very positive .",
+    "subject": "the results",
+    "predicate": "were",
+    "object": "very positive",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "This paper",
+    "predicate": "presents",
+    "object": "the qualitative results of the experiment",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "the experiment",
+    "predicate": "conducted",
+    "object": "we with the development of learning objects",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "the experiment",
+    "predicate": "conducted",
+    "object": "we with the application of learning objects",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "This paper",
+    "predicate": "presents",
+    "object": "the quantitative results of the experiment",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "the experiment",
+    "predicate": "conducted",
+    "object": "with the development of learning objects",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "This paper presents the qualitative and quantitative results of the experiment we conducted with the development and application of learning objects to help teaching students of Computer Science .",
+    "subject": "the experiment we",
+    "predicate": "conducted",
+    "object": "with the application of learning objects to",
+    "confidence": 0.87
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "outcome data",
+    "predicate": "showed",
+    "object": "that the use of learning objects contributes significantly to the teaching-learning process",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "the use of learning objects",
+    "predicate": "contributes significantly",
+    "object": "to the teaching-learning process",
+    "confidence": 1.0
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "a project",
+    "predicate": "to create",
+    "object": "various learning objects to help teach concepts",
+    "confidence": 0.86
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "a project to create various learning objects concepts",
+    "predicate": "was conducted",
+    "object": "considered difficult to understand by students of Science courses in 2013",
+    "confidence": 0.06
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "a project various learning objects to help",
+    "predicate": "to create",
+    "object": "teach concepts that are",
+    "confidence": 0.25
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "various learning objects",
+    "predicate": "to help teach",
+    "object": "concepts that are considered difficult to understand by students of Science courses",
+    "confidence": 0.02
+  },
+  {
+    "sentence": "a project to create various learning objects to help teach concepts that are considered difficult to understand by students of Science courses was conducted in 2013 and 2014 and outcome data showed that the use of learning objects contributes significantly to the teaching-learning process .",
+    "subject": "a project to create various learning objects concepts",
+    "predicate": "was conducted",
+    "object": "considered difficult to understand by students of Science courses in 2014",
+    "confidence": 0.07
+  }
+]

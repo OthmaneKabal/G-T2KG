@@ -1,0 +1,345 @@
+[
+  {
+    "sentence": "The development of relatively inexpensive reproduction of music via a succession of formats including vinyl records, compact cassettes, compact discs (introduced in 1983) and, by the mid-1990s, digital audio recordings, and the transmission or broadcast of audio recordings of music performances on radio, of video recordings or live performances on television, and by the mid-1990s , of audio and video recordings via the Internet, using file sharing of digital audio recordings, gave individuals from a wide range of socioeconomic classes access to a diverse selection of high-quality music performances by artists from around the globe .",
+    "subject": "vinyl record,",
+    "predicate": "is-a",
+    "object": "format",
+    "confidence": "-"
+  },
+  {
+    "sentence": "The development of relatively inexpensive reproduction of music via a succession of formats including vinyl records, compact cassettes, compact discs (introduced in 1983) and, by the mid-1990s, digital audio recordings, and the transmission or broadcast of audio recordings of music performances on radio, of video recordings or live performances on television, and by the mid-1990s , of audio and video recordings via the Internet, using file sharing of digital audio recordings, gave individuals from a wide range of socioeconomic classes access to a diverse selection of high-quality music performances by artists from around the globe .",
+    "subject": "compact cassette,",
+    "predicate": "is-a",
+    "object": "format",
+    "confidence": "-"
+  },
+  {
+    "sentence": "The development of relatively inexpensive reproduction of music via a succession of formats including vinyl records, compact cassettes, compact discs (introduced in 1983) and, by the mid-1990s, digital audio recordings, and the transmission or broadcast of audio recordings of music performances on radio, of video recordings or live performances on television, and by the mid-1990s , of audio and video recordings via the Internet, using file sharing of digital audio recordings, gave individuals from a wide range of socioeconomic classes access to a diverse selection of high-quality music performances by artists from around the globe .",
+    "subject": "compact disc",
+    "predicate": "is-a",
+    "object": "format",
+    "confidence": "-"
+  },
+  {
+    "sentence": "As time progressed, and as the Romantic period saw changes in accepted modification with composers such as Berlioz and Mahler, the 20th century saw that instrumentation could practically be hand-picked by the composer.",
+    "subject": "Berlioz",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "As time progressed, and as the Romantic period saw changes in accepted modification with composers such as Berlioz and Mahler, the 20th century saw that instrumentation could practically be hand-picked by the composer.",
+    "subject": "Mahler,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Faster modes of transportation such as jet flight allowed musicians and fans to travel more widely to perform or hear shows, which increased the spread of musical styles.",
+    "subject": "jet flight",
+    "predicate": "is-a",
+    "object": "transportation",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ravel, Milhaud, and Gershwin combined classical and jazz idioms.",
+    "subject": "Ravel,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ravel, Milhaud, and Gershwin combined classical and jazz idioms.",
+    "subject": "Milhaud,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ravel, Milhaud, and Gershwin combined classical and jazz idioms.",
+    "subject": "Gershwin combine classical and jazz idiom",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos used folk themes collected by Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos or others in many of Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos major compositions.",
+    "subject": "Ralph Vaughan Williams,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos used folk themes collected by Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos or others in many of Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos major compositions.",
+    "subject": "Aaron Copland,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos used folk themes collected by Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos or others in many of Composers such as Ralph Vaughan Williams, Aaron Copland, Carlos Chávez, and Heitor Villa-Lobos major compositions.",
+    "subject": "Carlos Chávez,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Julián Carrillo,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Mildred Couper,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Alois Hába,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Charles Ives,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Erwin Schulhoff,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early decades of the 20th century, composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky turned composers such as Julián Carrillo, Mildred Couper, Alois Hába, Charles Ives, Erwin Schulhoff, Ivan Wyschnegradsky attention to quarter tones (24 equal intervals per octave), and other finer divisions.",
+    "subject": "Ivan Wyschnegradsky",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the middle of the 20th century composers such as Harry Partch and Ben Johnston explored just intonation.",
+    "subject": "Harry Partch",
+    "predicate": "is-a",
+    "object": "20th century composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the middle of the 20th century composers such as Harry Partch and Ben Johnston explored just intonation.",
+    "subject": "Ben Johnston",
+    "predicate": "is-a",
+    "object": "20th century composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the second half of the 20th century , prominent composers employing microtonality included Easley Blackwood, Jr., Wendy Carlos, Adriaan Fokker, Terry Riley, Ezra Sims, Karlheinz Stockhausen, La Monte Young, and Iannis Xenakis.",
+    "subject": "Easley Blackwood,",
+    "predicate": "is-a",
+    "object": "microtonality",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Later, minimalism was adapted to a more traditional symphonic setting by composers including Steve Reich, Philip Glass, and John Adams.",
+    "subject": "Steve Reich,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Later, minimalism was adapted to a more traditional symphonic setting by composers including Steve Reich, Philip Glass, and John Adams.",
+    "subject": "Philip Glass,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Later, minimalism was adapted to a more traditional symphonic setting by composers including Steve Reich, Philip Glass, and John Adams.",
+    "subject": "John Adams",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Some younger composers such as Oliver Knussen, Thomas Adès, and Michael Daugherty did not rise to prominence until late in the 20th century .",
+    "subject": "Oliver Knussen,",
+    "predicate": "is-a",
+    "object": "young composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Some younger composers such as Oliver Knussen, Thomas Adès, and Michael Daugherty did not rise to prominence until late in the 20th century .",
+    "subject": "Thomas Adès,",
+    "predicate": "is-a",
+    "object": "young composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Some younger composers such as Oliver Knussen, Thomas Adès, and Michael Daugherty did not rise to prominence until late in the 20th century .",
+    "subject": "Michael Daugherty",
+    "predicate": "is-a",
+    "object": "young composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "As early as the 1930s, composers such as Olivier Messiaen incorporated electronic instruments into live performance.",
+    "subject": "Olivier Messiaen",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Edgard Varèse,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Karlheinz Stockhausen,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Milton Babbitt,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Pierre Boulez,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Luigi Nono,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Herbert Brün,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Electronic music was embraced by composers such as Edgard Varèse, Karlheinz Stockhausen, Milton Babbitt, Pierre Boulez, Luigi Nono, Herbert Brün, and Iannis Xenakis.",
+    "subject": "Iannis Xenakis",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Examples include Cadillac Sky and Bearfoot.",
+    "subject": "Cadillac Sky",
+    "predicate": "is-a",
+    "object": "example",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Examples include Cadillac Sky and Bearfoot.",
+    "subject": "Bearfoot",
+    "predicate": "is-a",
+    "object": "example",
+    "confidence": "-"
+  },
+  {
+    "sentence": "In the early years of the century, Wagnerian chromatic harmony was extended by opera composers such as Richard Strauss (Salome, 1905; Die Frau ohne Schatten, 1917), Claude Debussy (Pelléas et Mélisande, 1902), Giacomo Puccini (Madama Butterfly, 1904; Il trittico, 1918), Ferruccio Busoni (Doktor Faust, 1916, posthumously completed by Ferruccio Busoni student Philipp Jarnach), Béla Bartók (Bluebeard's Castle, 1911–17), and Hans Pfitzner (Palestrina, 1917).",
+    "subject": "Richard Strauss",
+    "predicate": "is-a",
+    "object": "opera composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Popular music includes Broadway tunes, ballads and singers such as Frank Sinatra.",
+    "subject": "Frank Sinatra",
+    "predicate": "is-a",
+    "object": "singer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Popular music includes Broadway tunes, ballads and singers such as Frank Sinatra.",
+    "subject": "Broadway tune,",
+    "predicate": "is-a",
+    "object": "popular music",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Popular music includes Broadway tunes, ballads and singers such as Frank Sinatra.",
+    "subject": "ballad",
+    "predicate": "is-a",
+    "object": "popular music",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Popular music includes Broadway tunes, ballads and singers such as Frank Sinatra.",
+    "subject": "singer",
+    "predicate": "is-a",
+    "object": "popular music",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Moreover, composers such as Scott Joplin, George Gershwin and Andrew Lloyd Webber tried to cater to both popular and high brow tastes.",
+    "subject": "Scott Joplin,",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Moreover, composers such as Scott Joplin, George Gershwin and Andrew Lloyd Webber tried to cater to both popular and high brow tastes.",
+    "subject": "George Gershwin",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Moreover, composers such as Scott Joplin, George Gershwin and Andrew Lloyd Webber tried to cater to both popular and high brow tastes.",
+    "subject": "Andrew Lloyd Webber",
+    "predicate": "is-a",
+    "object": "composer",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Blues musicians such as Muddy Waters brought the Delta Blues, played mostly with acoustic instruments, from the Mississippi delta north to cities like Chicago, where Blues musicians such as Muddy Waters used more electric instruments to form the Chicago Blues.",
+    "subject": "Muddy Waters",
+    "predicate": "is-a",
+    "object": "blue musician",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Rock and roll developed from earlier musical forms including rhythm and blues, which had earlier been called race music, and country music.",
+    "subject": "rhythm",
+    "predicate": "is-a",
+    "object": "early musical form",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Rock and roll developed from earlier musical forms including rhythm and blues, which had earlier been called race music, and country music.",
+    "subject": "blue,",
+    "predicate": "is-a",
+    "object": "early musical form",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Rock and roll developed from earlier musical forms including rhythm and blues, which had earlier been called race music, and country music.",
+    "subject": "which",
+    "predicate": "is-a",
+    "object": "early musical form",
+    "confidence": "-"
+  }
+]

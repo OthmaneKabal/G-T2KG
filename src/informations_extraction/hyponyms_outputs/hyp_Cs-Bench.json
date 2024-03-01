@@ -1,0 +1,135 @@
+[
+  {
+    "sentence": "Cyber-physical attacks (CPAs) are classified as the major threatening of SGs security because Cyber-physical attacks (CPAs) may lead to severe consequences such as large blackout and destruction of infrastructures.",
+    "subject": "large blackout",
+    "predicate": "is-a",
+    "object": "severe consequence",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Cyber-physical attacks (CPAs) are classified as the major threatening of SGs security because Cyber-physical attacks (CPAs) may lead to severe consequences such as large blackout and destruction of infrastructures.",
+    "subject": "destruction",
+    "predicate": "is-a",
+    "object": "severe consequence",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware, software, and data sources.",
+    "subject": "hardware,",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware, software, and data sources.",
+    "subject": "software,",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Computer networks consist of several assets such as hardware, software, and data sources.",
+    "subject": "datum source",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "several assets such as hardware, software, and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "hardware,",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "several assets such as hardware, software, and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "software,",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "several assets such as hardware, software, and data sources have often some vulnerabilities which can be exploited by attackers that violate security policies in Computer networks .",
+    "subject": "datum source",
+    "predicate": "is-a",
+    "object": "asset",
+    "confidence": "-"
+  },
+  {
+    "sentence": "JSAV: the JavaScript AV development library goes beyond traditional AV library support for displaying standard data structures components, to provide functionality to simplify creation of AVs on many engagement levels including interactive exercises.",
+    "subject": "interactive exercise",
+    "predicate": "is-a",
+    "object": "engagement level",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.",
+    "subject": "relational database,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.",
+    "subject": "spreadsheet,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.",
+    "subject": "xml,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.",
+    "subject": "json,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.",
+    "subject": "web api",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "However, Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs rarely provide a semantic model to describe Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contents.",
+    "subject": "relational database,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "However, Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs rarely provide a semantic model to describe Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contents.",
+    "subject": "spreadsheet,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "However, Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs rarely provide a semantic model to describe Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contents.",
+    "subject": "xml,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "However, Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs rarely provide a semantic model to describe Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contents.",
+    "subject": "json,",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  },
+  {
+    "sentence": "However, Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs rarely provide a semantic model to describe Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contents.",
+    "subject": "web api",
+    "predicate": "is-a",
+    "object": "information source",
+    "confidence": "-"
+  }
+]

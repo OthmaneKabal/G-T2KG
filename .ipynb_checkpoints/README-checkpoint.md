@@ -44,7 +44,7 @@ This script is dedicated to formatting OpenIE 6 output into JSON for easy manipu
 ```bash
 TripletExtractionConverter.py file_name
 ```
-the output will be saved `src/outputs/file_name_oie_triplets.json`
+the output will be saved `/outputs/file_name_oie_triplets.json`
 ### Hyponymy Extraction
 Navigate to the following directory: `/src/informations_extraction`.
 execute the following script
@@ -58,35 +58,22 @@ Replace file_name with your json file that you want to extract KG from (this fil
 Navigate to the following directory: `/src/post_processing/syntactic_cleaning`
 * execute the following script
 ```bash
-python TriplesPostProcessing.py file_name --root_option option
+TriplesPostProcessing.py
 ```
-Option: The option to use for extracting noun phrase head
-- stanza: Use the dependency tree.
-- gpt: Use ChatGPT-4. In this case, you should specify the API key to customize the API with `--gpt_key API-key`.
-The result will be stored at `src/outputs/file_name_oie_cleaned_triplets.json`
 ### Merge triplets 
 
-Merge the cleaned triplets and the hyponymy triplets
-```bash
-python TriplesPostProcessing.py file_name --root_option option
-```
-The result will be stored at `src/outputs/file_name_All_triplets.json`
 
 ## Triplets Validator
 Navigate to the following directory: `/src/triplets_validator`.
 execute the following script 
 ```bash
-Triplets_Validator.py file_name --gpt_key API-key
+Triplets_Validator.py
 ```
-API key: the api key to customize gpt-4
-The result will be stored at `src/outputs/file_name_validated_triplets.json`
 ## Mapping
 Navigate to the following directory: `/src/post_processing/mapping`
 * execute the following script
 ```bash
-mapping.py file_name
+mapping.py
 ```
-The result will be stored at `src/outputs/file_name_KG.json`
-
 # Contacts
 If you have any questions about our work or issues with the repository, please contact Othmane KABAL by email othmane.kabal@univ-nantes.fr

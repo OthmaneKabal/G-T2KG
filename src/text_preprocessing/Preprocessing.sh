@@ -18,6 +18,6 @@ pip install https://github.com/explosion/spacy-experimental/releases/download/v0
 pip install nltk
 
 # Execute Python scripts with arguments
-python CoreferencesResolver.py "$1"
-python OpenIEDataPreparer.py "$1"
+python CoreferencesResolver.py "$1" "$2"
+python OpenIEDataPreparer.py "$1" "$2"
 

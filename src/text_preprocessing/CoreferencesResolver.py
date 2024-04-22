@@ -79,14 +79,15 @@ if __name__ == "__main__":
     print("coreference Resolution ...")
     parser = argparse.ArgumentParser(description="Coreferences Resolution in Text Corpora")
     parser.add_argument("corpus", type=str, help="Corpus type (e.g., Music or Computer_science)")
+    parser.add_argument("input_file", type=str, help="name of the input file inside the data G-T2KG_input directory")
     args = parser.parse_args()
     if args.corpus == "Music":
-        data_path = "../../data/G-T2KG_input/20th-century_music.json"
+        data_path = "../../data/G-T2KG_input/"+input_file+".json"
     elif args.corpus == "computer_science":
-        data_path = "../../data/G-T2KG_input/CS_bench.json"
+        data_path = "../../data/G-T2KG_input/"+input_file+".json"
     else:
         print("invalid argument !")
-    output_path = "../outputs/Bench_"+args.corpus+"_coref.json"
+    output_path = "../outputs/"+args.input_file+"_coref.json"
     cr = CoreferencesResolver(data_path, output_path, args.corpus)
     cr.corpus_coreferences_resolution()
 

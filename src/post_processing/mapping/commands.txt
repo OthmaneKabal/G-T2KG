@@ -1,0 +1,6 @@
+pip install SPARQLWrapper
+pip install django
+pip install networkx
+pip install pandas
+pip install nltk
+pip install sentence_transformers

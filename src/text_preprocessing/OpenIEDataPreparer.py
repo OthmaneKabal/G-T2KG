@@ -42,7 +42,8 @@ class OpenIEDataPreparer:
     ## computer sc 
     def prepare_setences(self):
         data = read_json_file(self.data_path)
-        if self.corpus == "computer_science": 
+        print(len(self.corpus))
+        if str(self.corpus) == "computer_science": 
             abstracts = [paragraph["abstract"] for paragraph in data.values()]
     #         with open(output_path, 'w', encoding='utf-8') as output_file:
             for abstract in abstracts:
@@ -50,7 +51,7 @@ class OpenIEDataPreparer:
                 for sentence in tqdm(sentences, desc="Processing Sentences", unit="sentence", leave=False):
     #                     output_file.write(sentence.strip() +'\n')
                     self.sentences.append(sentence.strip())
-        if self.corpus == "Music":
+        elif self.corpus == "Music":
             paragraphs = [paragraph["paragraph"] for paragraph in data.values()]
             for paragraph in paragraphs:
                 sentences = self.split_paragraph(paragraph)
@@ -59,7 +60,7 @@ class OpenIEDataPreparer:
                     self.sentences.append(sentence.strip())
 
         else:
-            print("invalid corpus name !")
+            print("invalid corpus name!")
             return
 
     def is_valid_sentence(self, sentence):
@@ -85,12 +86,9 @@ if __name__ == "__main__":
     print("\n Segmentation...")
     parser = argparse.ArgumentParser(description="Cleaning and segmentation")
     parser.add_argument("corpus", type=str, help="Corpus type (e.g., Music or Computer_science)")
+    parser.add_argument("input_file", type=str, help="name of the input file inside the data G-T2KG_input directory")
     args = parser.parse_args()
-    if args.corpus == "Music" or args.corpus == "computer_science":
-        input_path = "../outputs/Bench_"+args.corpus+"_coref.json"
-    else:
-        print("invalid argument !")
-    output_path = "../outputs/Bench_"+args.corpus+"_oie.txt"
+    input_path = "../outputs/"+args.input_file+"_coref.json"
+    output_path = "../outputs/"+args.input_file+"_oie.txt"
     odp = OpenIEDataPreparer(input_path, output_path, args.corpus)
     odp.run()
-

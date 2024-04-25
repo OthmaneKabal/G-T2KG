@@ -340,22 +340,20 @@ class HearstPatterns(object):
         return term.replace("NP_", "").replace("_", " ")
 
     def get_triples(self):
-        for sentence in self.sentences:
-            hyponyms = self.find_hyponyms(sentence)
-            if hyponyms:
-                for hyp in hyponyms:
-                    self.results.append(
-                        {
-                                'sentence': sentence,
-                                'subject': hyp[0],
-                                'predicate': "is-a",
-                                'object': hyp[1],
-                                'confidence': "-"
-                                
-                            }
-                
-            )
-    
+        try:
+            for sentence in self.sentences:
+                hyponyms = self.find_hyponyms(sentence)
+                if hyponyms:
+                    for hyp in hyponyms:
+                        self.results.append({
+                            'sentence': sentence,
+                            'subject': hyp[0],
+                            'predicate': "is-a",
+                            'object': hyp[1],
+                            'confidence': "-"
+                        })
+        except Exception as e:
+            print(f"An error occurred: {e}")
 
     
     def write_to_json(self):

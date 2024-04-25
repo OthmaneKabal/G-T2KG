@@ -11,7 +11,7 @@ from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 import GptHead as gh
 import argparse
-
+from multiprocessing import Pool, cpu_count
 
 ## read data -----> utilities
 def read_json_file(file_path):
@@ -535,7 +535,171 @@ general_terms = [ 'method',
                      'two score',
                 ]
 ######################################################################Post processing class #################################################################
+# class TriplesPostProcessing:
+#     def __init__(self, data_path, output_path, root_method, gpt_key = None):
+#         self.data_path = data_path
+#         self.output_path = output_path
+#         self.input_triples = self.get_triples(data_path)##input triples before processing
+#         print("\n",data_path,"\n")
+#         print(data_path)
+#         self.cleaned_triples = [] ## output triples
+#         self.nlp_spacy = spacy.load("en_core_web_sm")
+#         self.nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency,depparse,lemma')
+#         self.root_method = root_method
+#         self.gpt_key = gpt_key
+#     def get_triples(self,input_data):
+#         data = read_json_file(input_data)
+#         return data
+#     @classmethod
+#     def json_to_tuple(cls, json_element):
+#         return tuple([json_element['subject'],
+#                      json_element['predicate'],
+#                      json_element['object']])
+    
+#     ## predicate rectification
+#     def predicate_rectifier(self,t):
+#         sujet, predicate, objet = t
+#         #### to lower
+#         sujet = sujet.lower()
+#         predicate = predicate.lower()
+#         objet = objet.lower()
+#         # Liste des prépositions à vérifier
+#         prepositions = ['by', 'at', 'in', 'to', 'for', 'of', 'on','with']
+    
+#         # Vérifier si l'objet commence par l'une des prépositions
+#         for preposition in prepositions:
+#             if get_first_word(objet) == preposition:
+#                 # Ajouter l'objet à la fin du prédicat
+#                 predicate += ' ' + preposition
+#                 # Supprimer la préposition de l'objet
+#                 objet = objet[len(preposition):].strip()
+#                 #nlp = spacy.load("en_core_web_sm")
+#         fw = get_first_word(objet)
+#         if not fw:
+#             return
+#         doc = self.nlp_spacy(fw)
+#         if  doc[0].pos_ =='VERB':
+#             predicate += ' ' + fw
+#             # Supprimer la préposition de l'objet
+#             objet = objet[len(fw):].strip()
+#             # break  # Sortir de la boucle après la première correspondance
+    
+#         # Retourner le tuple modifié
+#         return sujet, predicate, objet
+
+#     @classmethod
+#     def triple_cleaning(cls, triple, NP_method = "NP+Head", option = ["SBAR","PP-of", "VP","S"] ):
+#         if not_empty_triple(triple):
+#           s = remove_adj_stopwords(triple[0])
+#           o = remove_adj_stopwords(triple[2])
+#           if not s or not o:
+#               return
+#           triple = (s,triple[1],o)
+#           temp = cls.predicate_rectifier(triple)
+#           if temp:
+#               s, p, o = temp
+#               ## delete stop words using defined list
+#               p = remove_adj_stopwords(p)
+#               ## delete all adjectives and adverbs
+#               p = delete_adj_adv(p,cls.nlp_spacy)
+#               p = lemmatize_predicate(p)
+#               # p = delete_first_TO(p)
+#               ## if is_passive(p):
+#               ## inverse_triple()
+#           else:
+#               return
+#           if not p:
+#               return
+#           if detect_negation(p):
+#             return
+#           s = remove_abbreviations(s)
+#           o = remove_abbreviations(o)
+#           s = firstWord_is_ADP(s, cls.nlp_spacy)
+#           if not s or not o:
+#               return
+#           if is_contains_NP(s, cls.nlp_stanza ) and is_contains_NP(o, cls.nlp_stanza) :
+#             s = lemmatize_onlyNouns_and_lowercase_stanza(s,cls.nlp_stanza )
+#             o = lemmatize_onlyNouns_and_lowercase_stanza(o,cls.nlp_stanza )
+#             # s = lemmatize_onlyNouns_and_lowercase_wordNet(s)
+#             # o = lemmatize_onlyNouns_and_lowercase_wordNet(o)
+              
+
+              
+#             NP_subject = Extract_NP(s, cls.nlp_stanza, cls.nlp_spacy, NP_method , option, cls.root_method, cls.gpt_key)
+#             NP_object = Extract_NP(o, cls.nlp_stanza, cls.nlp_spacy, NP_method , option, cls.root_method, cls.gpt_key)
+    
+#             if NP_subject in general_terms or NP_object in general_terms:
+#                 return
+#             if NP_subject and NP_object:
+#                 ## verify_max_len()
+#                 if is_word_count_less_than(NP_subject,6) and is_word_count_less_than(NP_subject,6): 
+#                     return NP_subject, p, NP_object
+#                 else:
+#                     return
+#             else:
+#                 return 
+#             # else:
+#             #     return
+#           else:
+#             return
+#         else:
+#            return
+
+    # def clean_triples(self):
+    #     for triple in tqdm(self.input_triples, desc="Cleaning triples", unit="triple"):
+    #         try:
+    #             t = self.json_to_tuple(triple)
+    #             cleaned_t = self.triple_cleaning(t)
+    #             if cleaned_t:
+    #                 self.cleaned_triples.append(
+    #                     {
+    #                         'sentence': triple['sentence'],
+    #                         'subject': cleaned_t[0],
+    #                         'predicate': cleaned_t[1],
+    #                         'object': cleaned_t[2],
+    #                         'confidence': triple['confidence']
+                            
+    #                     }
+                    
+    #                 )
+    #         except Exception as e:
+    #             print(f"Error processing triple {triple}: {e}")
+                
+    # @classmethod
+    # def clean_single_triple(cls, triple):
+    #     try:
+    #         t = cls.json_to_tuple(triple)
+    #         cleaned_t = cls.triple_cleaning(t)
+    #         if cleaned_t:
+    #             return {
+    #                 'sentence': triple['sentence'],
+    #                 'subject': cleaned_t[0],
+    #                 'predicate': cleaned_t[1],
+    #                 'object': cleaned_t[2],
+    #                 'confidence': triple['confidence']
+    #             }
+    #     except Exception as e:
+    #         print(f"Error processing triple {triple}: {e}")
+    #     return None
+
+    # def clean_triples(self):
+    #     # Creating a pool of workers, by default the same as the number of CPU cores
+    #     with Pool(processes=cpu_count()) as pool:
+    #         # Map the clean_single_triple function to each item in the input_triples
+    #         # Use tqdm to create a progress bar around the map function
+    #         results = list(tqdm(pool.imap(self.clean_single_triple, self.input_triples),
+    #                             total=len(self.input_triples),
+    #                             desc="Cleaning triples",
+    #                             unit="triple"))
+    #     print(len(filter(None, results)))
+    #     # Filter out None results and extend cleaned_triples list
+    #     self.cleaned_triples.extend(filter(None, results))
+
+
 class TriplesPostProcessing:
+    nlp_spacy = spacy.load("en_core_web_sm")
+    nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency,depparse,lemma')
+
     def __init__(self, data_path, output_path, root_method, gpt_key = None):
         self.data_path = data_path
         self.output_path = output_path
@@ -543,14 +707,14 @@ class TriplesPostProcessing:
         print("\n",data_path,"\n")
         print(data_path)
         self.cleaned_triples = [] ## output triples
-        self.nlp_spacy = spacy.load("en_core_web_sm")
-        self.nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency,depparse,lemma')
+        # self.nlp_spacy = spacy.load("en_core_web_sm")
+        # self.nlp_stanza = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency,depparse,lemma')
         self.root_method = root_method
         self.gpt_key = gpt_key
     def get_triples(self,input_data):
         data = read_json_file(input_data)
         return data
-
+        
     def json_to_tuple(self, json_element):
         return tuple([json_element['subject'],
                      json_element['predicate'],
@@ -587,7 +751,6 @@ class TriplesPostProcessing:
         # Retourner le tuple modifié
         return sujet, predicate, objet
 
-
     def triple_cleaning(self, triple, NP_method = "NP+Head", option = ["SBAR","PP-of", "VP","S"] ):
         if not_empty_triple(triple):
           s = remove_adj_stopwords(triple[0])
@@ -617,7 +780,7 @@ class TriplesPostProcessing:
           s = firstWord_is_ADP(s, self.nlp_spacy)
           if not s or not o:
               return
-          if is_contains_NP(s, self.nlp_stanza ) and is_contains_NP(o, self.nlp_stanza) :
+          if is_contains_NP(s, self.nlp_stanza ) and is_contains_NP(o,self.nlp_stanza) :
             s = lemmatize_onlyNouns_and_lowercase_stanza(s,self.nlp_stanza )
             o = lemmatize_onlyNouns_and_lowercase_stanza(o,self.nlp_stanza )
             # s = lemmatize_onlyNouns_and_lowercase_wordNet(s)
@@ -645,26 +808,56 @@ class TriplesPostProcessing:
         else:
            return
 
-    def clean_triples(self):
-        for triple in tqdm(self.input_triples, desc="Cleaning triples", unit="triple"):
-            try:
-                t = self.json_to_tuple(triple)
-                cleaned_t = self.triple_cleaning(t)
-                if cleaned_t:
-                    self.cleaned_triples.append(
-                        {
-                            'sentence': triple['sentence'],
-                            'subject': cleaned_t[0],
-                            'predicate': cleaned_t[1],
-                            'object': cleaned_t[2],
-                            'confidence': triple['confidence']
+    # def clean_triples(self):
+    #     for triple in tqdm(self.input_triples, desc="Cleaning triples", unit="triple"):
+    #         try:
+    #             t = self.json_to_tuple(triple)
+    #             cleaned_t = self.triple_cleaning(t)
+    #             if cleaned_t:
+    #                 self.cleaned_triples.append(
+    #                     {
+    #                         'sentence': triple['sentence'],
+    #                         'subject': cleaned_t[0],
+    #                         'predicate': cleaned_t[1],
+    #                         'object': cleaned_t[2],
+    #                         'confidence': triple['confidence']
                             
-                        }
+    #                     }
                     
-                    )
-            except Exception as e:
-                print(f"Error processing triple {triple}: {e}")
+    #                 )
+    #         except Exception as e:
+    #             print(f"Error processing triple {triple}: {e}")
                 
+    def clean_single_triple(self, triple):
+        try:
+            t = self.json_to_tuple(triple)
+            cleaned_t = self.triple_cleaning(t)
+            if cleaned_t:
+                return {
+                    'sentence': triple['sentence'],
+                    'subject': cleaned_t[0],
+                    'predicate': cleaned_t[1],
+                    'object': cleaned_t[2],
+                    'confidence': triple['confidence']
+                }
+        except Exception as e:
+            print(f"Error processing triple {triple}: {e}")
+        return None
+    
+    
+    def clean_triples(self):
+        # Creating a pool of workers, by default the same as the number of CPU cores
+        with Pool(processes= 15) as pool:
+            # Map the clean_single_triple function to each item in the input_triples
+            # Use tqdm to create a progress bar around the map function
+            results = list(tqdm(pool.imap(self.clean_single_triple, self.input_triples),
+                                total=len(self.input_triples),
+                                desc="Cleaning triples",
+                                unit="triple"))
+        # Filter out None results and extend cleaned_triples list
+        self.cleaned_triples.extend(filter(None, results))
+
+
     def write_to_json(self):
         with open(self.output_path, 'w', encoding='utf-8') as jsonfile:
             json.dump(self.cleaned_triples, jsonfile, ensure_ascii=False, indent=2)

@@ -3,6 +3,7 @@ from spacy.tokens import Doc
 import json
 import copy
 import argparse
+from tqdm import tqdm
 
 def read_json_file(file_path):
     try:
@@ -64,10 +65,10 @@ class CoreferencesResolver:
         self.data = read_json_file(self.data_path)
         temp_data = copy.deepcopy(self.data)
         if self.corpus == "computer_science":
-            for element in self.data:
+            for element in tqdm(self.data, desc="Processing abstracts"):
                temp_data[element]["abstract"] = self.coreference_resolver(self.data[element]["abstract"], coref_spacy)
         elif self.corpus == "Music":
-            for element in self.data:
+            for element in tqdm(self.data, desc="Processing abstracts"):
                 temp_data[element]["paragraph"] = self.coreference_resolver(self.data[element]["paragraph"], coref_spacy)
         else:
             print("corpus name invalid!")
@@ -82,9 +83,9 @@ if __name__ == "__main__":
     parser.add_argument("input_file", type=str, help="name of the input file inside the data G-T2KG_input directory")
     args = parser.parse_args()
     if args.corpus == "Music":
-        data_path = "../../data/G-T2KG_input/"+input_file+".json"
+        data_path = "../../data/G-T2KG_input/"+args.input_file+".json"
     elif args.corpus == "computer_science":
-        data_path = "../../data/G-T2KG_input/"+input_file+".json"
+        data_path = "../../data/G-T2KG_input/"+args.input_file+".json"
     else:
         print("invalid argument !")
     output_path = "../outputs/"+args.input_file+"_coref.json"

@@ -49,7 +49,7 @@ the output will be saved `src/outputs/file_name_oie_triplets.json`
 Navigate to the following directory: `/src/informations_extraction`.
 execute the following script
 ```bash
-hyponyms_extractor.py file_name
+hyponymsExtractor.py file_name
 ```
 Replace file_name with your json file that you want to extract KG from (this file should be inside the directory \data\G-T2KG_input )
 ## Post-traitment:

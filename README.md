@@ -1,4 +1,4 @@
-# Integrating OpenIE Syntactic Cleaning and LLMs Validation for Domain-Independent Knowledge Graph Construction (G-T2KG)
+# Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation (G-T2KG)
 This repository provides the code used to build knowledge graph 
 from text (G-T2KG)
 

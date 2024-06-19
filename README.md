@@ -87,6 +87,20 @@ Navigate to the following directory: `/src/post_processing/mapping`
 mapping.py file_name
 ```
 The result will be stored at `src/outputs/file_name_KG.json`
-
+# Cite
+If you use this code in your research, please cite:
+(This article is currently under publication for KES 2024...)
+```bash
+@inproceedings{kabal&al2024,
+    title = "Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation (G-T2KG)",
+    author = "Othmane Kabal and
+      Mounira Harazallah and
+      Fabrice Guillet and
+      Ryutaro Ichise",
+    booktitle = "28th International Conference on Knowledge-Based and Intelligent Information \& Engineering Systems (KES 2024)",
+    note = "To appear",
+    year = "2024",
+}
+```
 # Contacts
 If you have any questions about our work or issues with the repository, please contact Othmane KABAL by email othmane.kabal@univ-nantes.fr

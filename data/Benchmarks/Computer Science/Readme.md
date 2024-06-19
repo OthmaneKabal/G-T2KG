@@ -9,7 +9,8 @@ role that topics play in influencing the nature of terms and writing style (such
 use of technical terms, references, etc.). To achieve this, we carefully choose two
 abstracts for each topic, and the details of these abstracts are described in Figure 1.
 
-[App Screenshot](gs_topics.PNG)
+![Figure 1: Details of the abstracts](gs_topics.PNG)
+
 
 The gold standard is provided as an excel file. Its columns are:
 - subject: The subject of the extracted triplet

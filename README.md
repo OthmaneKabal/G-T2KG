@@ -2,7 +2,7 @@
 This repository provides the code used to build knowledge graph 
 from text (G-T2KG)
 
-![Figure 1: Details of the abstracts](Gtext2KG.png)
+![Figure 1: Details of the abstracts](GT2KG.png)
 
 NB: To run this code, you must have the OpenIE6 tool code that works well.
 

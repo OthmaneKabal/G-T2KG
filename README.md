@@ -37,7 +37,7 @@ Two files will be generated: one for resolving coreferences and the other for se
 This subcomponent takes as input the sentences segmented by (Component 1). To do this, you must have OpenIE6 properly functioning. Navigate to the OIE6 directory and execute the following command to extract triplets:
 
 ```bash
-python run.py --mode predict --inp input_path --out output_path --rescoring --task oie --gpus 0 --oie_model models/oie_model/epoch=14_eval_acc=0.551_v0.ckpt --conj_model models/conj_model/epoch=28_eval_acc=0.854.ckpt --rescore_model models/rescore_model --num_extractions 5
+python run.py --mode splitpredict --inp input_path --out output_path --rescoring --task oie --gpus 0 --oie_model models/oie_model/epoch=14_eval_acc=0.551_v0.ckpt --conj_model models/conj_model/epoch=28_eval_acc=0.854.ckpt --rescore_model models/rescore_model --num_extractions 5
 ```
 * input_path: the set of sentences extracted and saved in  '/src/outputs'
 * output_path: /src/outputs/OIE_triplets.txt (path to save extracted triplets)

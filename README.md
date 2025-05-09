@@ -70,7 +70,7 @@ The result will be stored at `src/outputs/file_name_oie_cleaned_triplets.json`
 
 Merge the cleaned triplets and the hyponymy triplets
 ```bash
-python TriplesPostProcessing.py file_name --root_option option
+python MergeTriplets.py file_name
 ```
 The result will be stored at `src/outputs/file_name_All_triplets.json`
 
